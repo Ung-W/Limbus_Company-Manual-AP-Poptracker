@@ -1,0 +1,115 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Yi Sang",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yi Sang"
+                    ]
+                }
+            },
+            {
+                "title": "Faust",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Faust"
+                    ]
+                }
+            },
+            {
+                "title": "Don Quixote",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Don Quixote"
+                    ]
+                }
+            },
+            {
+                "title": "Ryoshu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ryoshu"
+                    ]
+                }
+            },
+            {
+                "title": "Meursault",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Meursault"
+                    ]
+                }
+            },
+            {
+                "title": "Hong Lu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hong Lu"
+                    ]
+                }
+            },
+            {
+                "title": "Heathcliff",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Heathcliff"
+                    ]
+                }
+            },
+            {
+                "title": "Ishmael",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ishmael"
+                    ]
+                }
+            },
+            {
+                "title": "Rodion",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Rodion"
+                    ]
+                }
+            },
+            {
+                "title": "Sinclair",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sinclair"
+                    ]
+                }
+            },
+            {
+                "title": "Outis",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Outis"
+                    ]
+                }
+            },
+            {
+                "title": "Gregor",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gregor"
+                    ]
+                }
+            }
+        ]
+    }
+}

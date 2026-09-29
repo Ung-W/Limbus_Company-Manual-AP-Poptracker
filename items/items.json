@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Star Light Guidance",
+        "type": "toggle",
+        "img": "images/items/starlightguidance.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "starlightguidance"
+    },
+    {
+        "name": "Ryoshu",
+        "type": "toggle",
+        "img": "images/items/ryoshu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ryoshu"
+    },
+    {
+        "name": "skillreplacementunlock",
+        "type": "toggle",
+        "img": "images/items/skillreplacementunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skillreplacementunlock"
+    },
+    {
+        "name": "Interstellar Travel",
+        "type": "toggle",
+        "img": "images/items/interstellartravel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "interstellartravel"
+    },
+    {
+        "name": "Binary Star-Shop",
+        "type": "toggle",
+        "img": "images/items/binarystar-shop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "binarystar-shop"
+    },
+    {
+        "name": "WAW EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/wawegoslotunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wawegoslotunlock"
+    },
+    {
+        "name": "Sinner Slot",
+        "type": "consumable",
+        "img": "images/items/sinnerslot+1.png",
+        "min_quantity": 0,
+        "max_quantity": 12,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "sinnerslot+1"
+    },
+    {
+        "name": "floor07cleared",
+        "type": "toggle",
+        "img": "images/items/floor07cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor07cleared"
+    },
+    {
+        "name": "floor12cleared",
+        "type": "toggle",
+        "img": "images/items/floor12cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor12cleared"
+    },
+    {
+        "name": "floor12pack",
+        "type": "toggle",
+        "img": "images/items/floor12pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor12pack"
+    },
+    {
+        "name": "Meursault",
+        "type": "toggle",
+        "img": "images/items/meursault.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meursault"
+    },
+    {
+        "name": "Outis",
+        "type": "toggle",
+        "img": "images/items/outis.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "outis"
+    },
+    {
+        "name": "Hong Lu",
+        "type": "toggle",
+        "img": "images/items/honglu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "honglu"
+    },
+    {
+        "name": "floor13pack",
+        "type": "toggle",
+        "img": "images/items/floor13pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor13pack"
+    },
+    {
+        "name": "Faust",
+        "type": "toggle",
+        "img": "images/items/faust.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "faust"
+    },
+    {
+        "name": "startingsindidnthaveamatchwiththestartingsinner",
+        "type": "toggle",
+        "img": "images/items/startingsindidnthaveamatchwiththestartingsinner.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "startingsindidnthaveamatchwiththestartingsinner"
+    },
+    {
+        "name": "floor02cleared",
+        "type": "toggle",
+        "img": "images/items/floor02cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor02cleared"
+    },
+    {
+        "name": "Maost Key",
+        "type": "toggle",
+        "img": "images/items/maostkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "maostkey"
+    },
+    {
+        "name": "floor04pack",
+        "type": "toggle",
+        "img": "images/items/floor04pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor04pack"
+    },
+    {
+        "name": "floor10pack",
+        "type": "toggle",
+        "img": "images/items/floor10pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor10pack"
+    },
+    {
+        "name": "floor02pack",
+        "type": "toggle",
+        "img": "images/items/floor02pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor02pack"
+    },
+    {
+        "name": "floor08cleared",
+        "type": "toggle",
+        "img": "images/items/floor08cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor08cleared"
+    },
+    {
+        "name": "floor11pack",
+        "type": "toggle",
+        "img": "images/items/floor11pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor11pack"
+    },
+    {
+        "name": "Gregor",
+        "type": "toggle",
+        "img": "images/items/gregor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gregor"
+    },
+    {
+        "name": "Rupture",
+        "type": "toggle",
+        "img": "images/items/rupture.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupture"
+    },
+    {
+        "name": "floor10cleared",
+        "type": "toggle",
+        "img": "images/items/floor10cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor10cleared"
+    },
+    {
+        "name": "floor05cleared",
+        "type": "toggle",
+        "img": "images/items/floor05cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor05cleared"
+    },
+    {
+        "name": "floor11cleared",
+        "type": "toggle",
+        "img": "images/items/floor11cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor11cleared"
+    },
+    {
+        "name": "floor01pack",
+        "type": "toggle",
+        "img": "images/items/floor01pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor01pack"
+    },
+    {
+        "name": "floor06pack",
+        "type": "toggle",
+        "img": "images/items/floor06pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor06pack"
+    },
+    {
+        "name": "floor07pack",
+        "type": "toggle",
+        "img": "images/items/floor07pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor07pack"
+    },
+    {
+        "name": "floor08pack",
+        "type": "toggle",
+        "img": "images/items/floor08pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor08pack"
+    },
+    {
+        "name": "startingsinnerinyamlisnotincludedintherandomization",
+        "type": "toggle",
+        "img": "images/items/startingsinnerinyamlisnotincludedintherandomization.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "startingsinnerinyamlisnotincludedintherandomization"
+    },
+    {
+        "name": "floor04cleared",
+        "type": "toggle",
+        "img": "images/items/floor04cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor04cleared"
+    },
+    {
+        "name": "ZAYIN EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/zayinegoslotunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zayinegoslotunlock"
+    },
+    {
+        "name": "Chance Comet",
+        "type": "toggle",
+        "img": "images/items/chancecomet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chancecomet"
+    },
+    {
+        "name": "finalfloorcleared",
+        "type": "toggle",
+        "img": "images/items/finalfloorcleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "finalfloorcleared"
+    },
+    {
+        "name": "Heathcliff",
+        "type": "toggle",
+        "img": "images/items/heathcliff.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heathcliff"
+    },
+    {
+        "name": "Sinking",
+        "type": "toggle",
+        "img": "images/items/sinking.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sinking"
+    },
+    {
+        "name": "Star-Shower",
+        "type": "toggle",
+        "img": "images/items/star-shower.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "star-shower"
+    },
+    {
+        "name": "Perfected Possibility",
+        "type": "toggle",
+        "img": "images/items/perfectedpossibility.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "perfectedpossibility"
+    },
+    {
+        "name": "Sinclair",
+        "type": "toggle",
+        "img": "images/items/sinclair.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sinclair"
+    },
+    {
+        "name": "floor03cleared",
+        "type": "toggle",
+        "img": "images/items/floor03cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor03cleared"
+    },
+    {
+        "name": "Favor of the Nebulae",
+        "type": "toggle",
+        "img": "images/items/favorofthenebulae.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "favorofthenebulae"
+    },
+    {
+        "name": "floor13cleared",
+        "type": "toggle",
+        "img": "images/items/floor13cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor13cleared"
+    },
+    {
+        "name": "Bleed",
+        "type": "toggle",
+        "img": "images/items/bleed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bleed"
+    },
+    {
+        "name": "TETH EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/tethegoslotunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tethegoslotunlock"
+    },
+    {
+        "name": "floor14pack",
+        "type": "toggle",
+        "img": "images/items/floor14pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor14pack"
+    },
+    {
+        "name": "floor14cleared",
+        "type": "toggle",
+        "img": "images/items/floor14cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor14cleared"
+    },
+    {
+        "name": "Tremor",
+        "type": "toggle",
+        "img": "images/items/tremor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tremor"
+    },
+    {
+        "name": "starofthebeginning",
+        "type": "toggle",
+        "img": "images/items/starofthebeginning.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "starofthebeginning"
+    },
+    {
+        "name": "Craft EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/craftegosunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "craftegosunlock"
+    },
+    {
+        "name": "missingsomesinnerstoreachyourgoal",
+        "type": "toggle",
+        "img": "images/items/missingsomesinnerstoreachyourgoal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "missingsomesinnerstoreachyourgoal"
+    },
+    {
+        "name": "progressivefloor",
+        "type": "consumable",
+        "img": "images/items/progressivefloor.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivefloor"
+    },
+    {
+        "name": "Rodion",
+        "type": "toggle",
+        "img": "images/items/rodion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rodion"
+    },
+    {
+        "name": "Don Quixote",
+        "type": "toggle",
+        "img": "images/items/donquixote.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "donquixote"
+    },
+    {
+        "name": "Burn",
+        "type": "toggle",
+        "img": "images/items/burn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burn"
+    },
+    {
+        "name": "floor09pack",
+        "type": "toggle",
+        "img": "images/items/floor09pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor09pack"
+    },
+    {
+        "name": "startingsininyamlisnotincludedintherandomization",
+        "type": "toggle",
+        "img": "images/items/startingsininyamlisnotincludedintherandomization.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "startingsininyamlisnotincludedintherandomization"
+    },
+    {
+        "name": "floor01cleared",
+        "type": "toggle",
+        "img": "images/items/floor01cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor01cleared"
+    },
+    {
+        "name": "floor05pack",
+        "type": "toggle",
+        "img": "images/items/floor05pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor05pack"
+    },
+    {
+        "name": "HE EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/heegoslotunlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heegoslotunlock"
+    },
+    {
+        "name": "Moonstar-Shop",
+        "type": "toggle",
+        "img": "images/items/moonstar-shop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moonstar-shop"
+    },
+    {
+        "name": "lunacy",
+        "type": "toggle",
+        "img": "images/items/lunacy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lunacy"
+    },
+    {
+        "name": "Yi Sang",
+        "type": "toggle",
+        "img": "images/items/yisang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yisang"
+    },
+    {
+        "name": "Poise",
+        "type": "toggle",
+        "img": "images/items/poise.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "poise"
+    },
+    {
+        "name": "Ishmael",
+        "type": "toggle",
+        "img": "images/items/ishmael.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ishmael"
+    },
+    {
+        "name": "Charge",
+        "type": "toggle",
+        "img": "images/items/charge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charge"
+    },
+    {
+        "name": "floor09cleared",
+        "type": "toggle",
+        "img": "images/items/floor09cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor09cleared"
+    },
+    {
+        "name": "floor03pack",
+        "type": "toggle",
+        "img": "images/items/floor03pack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor03pack"
+    },
+    {
+        "name": "EGO Gift Slot x5",
+        "type": "consumable",
+        "img": "images/items/egogiftslotx5.png",
+        "min_quantity": 0,
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "egogiftslotx5"
+    },
+    {
+        "name": "floor06cleared",
+        "type": "toggle",
+        "img": "images/items/floor06cleared.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floor06cleared"
+    },
+    {
+        "name": "Cumulating Starcloud",
+        "type": "toggle",
+        "img": "images/items/cumulatingstarcloud.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cumulatingstarcloud"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

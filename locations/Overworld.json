@@ -1,0 +1,2400 @@
+[
+    {
+        "name": "Overview",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Floor 01",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 01 Stage 1 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 1/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 1 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 1/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 2 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 2/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 2 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 2/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 3 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 3/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 3 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 3/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 4 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 4/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 4 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 4/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 5 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 5/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 5 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 5/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Boss 1 - Completion",
+                        "ref": "Floor 01/Floor 01 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 01 Boss 1 - Reward",
+                        "ref": "Floor 01/Floor 01 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 01 Stage 6 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 6/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 6 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 6/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 7 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 7/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 7 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 7/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 8 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 8/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 8 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 8/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 9 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 9/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 9 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 9/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 10 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 10/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 10 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 10/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Boss 2 - Completion",
+                        "ref": "Floor 01/Floor 01 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 01 Boss 2 - Reward",
+                        "ref": "Floor 01/Floor 01 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 01 Stage 11 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 11/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 11 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 11/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 12 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 12/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 12 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 12/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 13 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 13/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 13 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 13/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 14 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 14/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 14 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 14/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 15 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 15/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 15 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 15/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Boss 3 - Completion",
+                        "ref": "Floor 01/Floor 01 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 01 Boss 3 - Reward",
+                        "ref": "Floor 01/Floor 01 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 01 Stage 16 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 16/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 16 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 16/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 17 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 17/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 17 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 17/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 18 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 18/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 18 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 18/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 19 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 19/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 19 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 19/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 20 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 20/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 20 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 20/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Boss 4 - Completion",
+                        "ref": "Floor 01/Floor 01 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 01 Boss 4 - Reward",
+                        "ref": "Floor 01/Floor 01 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 01 Stage 21 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 21/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 21 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 21/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 22 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 22/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 22 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 22/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 23 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 23/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 23 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 23/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 24 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 24/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 24 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 24/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Stage 25 - Reward 1",
+                        "ref": "Floor 01/Floor 01 Stage 25/Reward 1"
+                    },
+                    {
+                        "name": "Floor 01 Stage 25 - Reward 2",
+                        "ref": "Floor 01/Floor 01 Stage 25/Reward 2"
+                    },
+                    {
+                        "name": "Floor 01 Boss 5 - Completion",
+                        "ref": "Floor 01/Floor 01 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 01 Boss - Completion",
+                        "ref": "Floor 01/Floor 01 Boss/Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1689,
+                        "y": 2315,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 02",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 02 Boss 1 - Completion",
+                        "ref": "Floor 02/Floor 02 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 02 Boss 1 - Reward",
+                        "ref": "Floor 02/Floor 02 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 02 Boss 2 - Completion",
+                        "ref": "Floor 02/Floor 02 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 02 Boss 2 - Reward",
+                        "ref": "Floor 02/Floor 02 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 02 Boss 3 - Completion",
+                        "ref": "Floor 02/Floor 02 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 02 Boss 3 - Reward",
+                        "ref": "Floor 02/Floor 02 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 02 Boss 4 - Completion",
+                        "ref": "Floor 02/Floor 02 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 02 Boss 4 - Reward",
+                        "ref": "Floor 02/Floor 02 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 02 Boss 5 - Completion",
+                        "ref": "Floor 02/Floor 02 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 02 Boss - Completion",
+                        "ref": "Floor 02/Floor 02 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 1",
+                        "ref": "Floor 02/Floor 02 Stage 1"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 2",
+                        "ref": "Floor 02/Floor 02 Stage 2"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 3",
+                        "ref": "Floor 02/Floor 02 Stage 3"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 4",
+                        "ref": "Floor 02/Floor 02 Stage 4"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 5",
+                        "ref": "Floor 02/Floor 02 Stage 5"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 6",
+                        "ref": "Floor 02/Floor 02 Stage 6"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 7",
+                        "ref": "Floor 02/Floor 02 Stage 7"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 8",
+                        "ref": "Floor 02/Floor 02 Stage 8"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 9",
+                        "ref": "Floor 02/Floor 02 Stage 9"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 10",
+                        "ref": "Floor 02/Floor 02 Stage 10"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 11",
+                        "ref": "Floor 02/Floor 02 Stage 11"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 12",
+                        "ref": "Floor 02/Floor 02 Stage 12"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 13",
+                        "ref": "Floor 02/Floor 02 Stage 13"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 14",
+                        "ref": "Floor 02/Floor 02 Stage 14"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 15",
+                        "ref": "Floor 02/Floor 02 Stage 15"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 16",
+                        "ref": "Floor 02/Floor 02 Stage 16"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 17",
+                        "ref": "Floor 02/Floor 02 Stage 17"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 18",
+                        "ref": "Floor 02/Floor 02 Stage 18"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 19",
+                        "ref": "Floor 02/Floor 02 Stage 19"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 20",
+                        "ref": "Floor 02/Floor 02 Stage 20"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 21",
+                        "ref": "Floor 02/Floor 02 Stage 21"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 22",
+                        "ref": "Floor 02/Floor 02 Stage 22"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 23",
+                        "ref": "Floor 02/Floor 02 Stage 23"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 24",
+                        "ref": "Floor 02/Floor 02 Stage 24"
+                    },
+                    {
+                        "name": "Floor 02 - Floor 02 Stage 25",
+                        "ref": "Floor 02/Floor 02 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 493,
+                        "y": 1369,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 03",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 03 Boss 1 - Completion",
+                        "ref": "Floor 03/Floor 03 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 03 Boss 1 - Reward",
+                        "ref": "Floor 03/Floor 03 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 03 Boss 2 - Completion",
+                        "ref": "Floor 03/Floor 03 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 03 Boss 2 - Reward",
+                        "ref": "Floor 03/Floor 03 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 03 Boss 3 - Completion",
+                        "ref": "Floor 03/Floor 03 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 03 Boss 3 - Reward",
+                        "ref": "Floor 03/Floor 03 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 03 Boss 4 - Completion",
+                        "ref": "Floor 03/Floor 03 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 03 Boss 4 - Reward",
+                        "ref": "Floor 03/Floor 03 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 03 Boss 5 - Completion",
+                        "ref": "Floor 03/Floor 03 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 03 Boss - Completion",
+                        "ref": "Floor 03/Floor 03 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 1",
+                        "ref": "Floor 03/Floor 03 Stage 1"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 2",
+                        "ref": "Floor 03/Floor 03 Stage 2"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 3",
+                        "ref": "Floor 03/Floor 03 Stage 3"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 4",
+                        "ref": "Floor 03/Floor 03 Stage 4"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 5",
+                        "ref": "Floor 03/Floor 03 Stage 5"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 6",
+                        "ref": "Floor 03/Floor 03 Stage 6"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 7",
+                        "ref": "Floor 03/Floor 03 Stage 7"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 8",
+                        "ref": "Floor 03/Floor 03 Stage 8"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 9",
+                        "ref": "Floor 03/Floor 03 Stage 9"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 10",
+                        "ref": "Floor 03/Floor 03 Stage 10"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 11",
+                        "ref": "Floor 03/Floor 03 Stage 11"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 12",
+                        "ref": "Floor 03/Floor 03 Stage 12"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 13",
+                        "ref": "Floor 03/Floor 03 Stage 13"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 14",
+                        "ref": "Floor 03/Floor 03 Stage 14"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 15",
+                        "ref": "Floor 03/Floor 03 Stage 15"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 16",
+                        "ref": "Floor 03/Floor 03 Stage 16"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 17",
+                        "ref": "Floor 03/Floor 03 Stage 17"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 18",
+                        "ref": "Floor 03/Floor 03 Stage 18"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 19",
+                        "ref": "Floor 03/Floor 03 Stage 19"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 20",
+                        "ref": "Floor 03/Floor 03 Stage 20"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 21",
+                        "ref": "Floor 03/Floor 03 Stage 21"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 22",
+                        "ref": "Floor 03/Floor 03 Stage 22"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 23",
+                        "ref": "Floor 03/Floor 03 Stage 23"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 24",
+                        "ref": "Floor 03/Floor 03 Stage 24"
+                    },
+                    {
+                        "name": "Floor 03 - Floor 03 Stage 25",
+                        "ref": "Floor 03/Floor 03 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1107,
+                        "y": 2481,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 04",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 04 Boss 1 - Completion",
+                        "ref": "Floor 04/Floor 04 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 04 Boss 1 - Reward",
+                        "ref": "Floor 04/Floor 04 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 04 Boss 2 - Completion",
+                        "ref": "Floor 04/Floor 04 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 04 Boss 2 - Reward",
+                        "ref": "Floor 04/Floor 04 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 04 Boss 3 - Completion",
+                        "ref": "Floor 04/Floor 04 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 04 Boss 3 - Reward",
+                        "ref": "Floor 04/Floor 04 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 04 Boss 4 - Completion",
+                        "ref": "Floor 04/Floor 04 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 04 Boss 4 - Reward",
+                        "ref": "Floor 04/Floor 04 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 04 Boss 5 - Completion",
+                        "ref": "Floor 04/Floor 04 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 04 Boss - Completion",
+                        "ref": "Floor 04/Floor 04 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 1",
+                        "ref": "Floor 04/Floor 04 Stage 1"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 2",
+                        "ref": "Floor 04/Floor 04 Stage 2"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 3",
+                        "ref": "Floor 04/Floor 04 Stage 3"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 4",
+                        "ref": "Floor 04/Floor 04 Stage 4"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 5",
+                        "ref": "Floor 04/Floor 04 Stage 5"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 6",
+                        "ref": "Floor 04/Floor 04 Stage 6"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 7",
+                        "ref": "Floor 04/Floor 04 Stage 7"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 8",
+                        "ref": "Floor 04/Floor 04 Stage 8"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 9",
+                        "ref": "Floor 04/Floor 04 Stage 9"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 10",
+                        "ref": "Floor 04/Floor 04 Stage 10"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 11",
+                        "ref": "Floor 04/Floor 04 Stage 11"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 12",
+                        "ref": "Floor 04/Floor 04 Stage 12"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 13",
+                        "ref": "Floor 04/Floor 04 Stage 13"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 14",
+                        "ref": "Floor 04/Floor 04 Stage 14"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 15",
+                        "ref": "Floor 04/Floor 04 Stage 15"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 16",
+                        "ref": "Floor 04/Floor 04 Stage 16"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 17",
+                        "ref": "Floor 04/Floor 04 Stage 17"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 18",
+                        "ref": "Floor 04/Floor 04 Stage 18"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 19",
+                        "ref": "Floor 04/Floor 04 Stage 19"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 20",
+                        "ref": "Floor 04/Floor 04 Stage 20"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 21",
+                        "ref": "Floor 04/Floor 04 Stage 21"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 22",
+                        "ref": "Floor 04/Floor 04 Stage 22"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 23",
+                        "ref": "Floor 04/Floor 04 Stage 23"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 24",
+                        "ref": "Floor 04/Floor 04 Stage 24"
+                    },
+                    {
+                        "name": "Floor 04 - Floor 04 Stage 25",
+                        "ref": "Floor 04/Floor 04 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2121,
+                        "y": 2312,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 05",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 05 Boss 1 - Completion",
+                        "ref": "Floor 05/Floor 05 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 05 Boss 1 - Reward",
+                        "ref": "Floor 05/Floor 05 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 05 Boss 2 - Completion",
+                        "ref": "Floor 05/Floor 05 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 05 Boss 2 - Reward",
+                        "ref": "Floor 05/Floor 05 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 05 Boss 3 - Completion",
+                        "ref": "Floor 05/Floor 05 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 05 Boss 3 - Reward",
+                        "ref": "Floor 05/Floor 05 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 05 Boss 4 - Completion",
+                        "ref": "Floor 05/Floor 05 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 05 Boss 4 - Reward",
+                        "ref": "Floor 05/Floor 05 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 05 Boss 5 - Completion",
+                        "ref": "Floor 05/Floor 05 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 05 Boss - Completion",
+                        "ref": "Floor 05/Floor 05 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 1",
+                        "ref": "Floor 05/Floor 05 Stage 1"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 2",
+                        "ref": "Floor 05/Floor 05 Stage 2"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 3",
+                        "ref": "Floor 05/Floor 05 Stage 3"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 4",
+                        "ref": "Floor 05/Floor 05 Stage 4"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 5",
+                        "ref": "Floor 05/Floor 05 Stage 5"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 6",
+                        "ref": "Floor 05/Floor 05 Stage 6"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 7",
+                        "ref": "Floor 05/Floor 05 Stage 7"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 8",
+                        "ref": "Floor 05/Floor 05 Stage 8"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 9",
+                        "ref": "Floor 05/Floor 05 Stage 9"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 10",
+                        "ref": "Floor 05/Floor 05 Stage 10"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 11",
+                        "ref": "Floor 05/Floor 05 Stage 11"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 12",
+                        "ref": "Floor 05/Floor 05 Stage 12"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 13",
+                        "ref": "Floor 05/Floor 05 Stage 13"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 14",
+                        "ref": "Floor 05/Floor 05 Stage 14"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 15",
+                        "ref": "Floor 05/Floor 05 Stage 15"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 16",
+                        "ref": "Floor 05/Floor 05 Stage 16"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 17",
+                        "ref": "Floor 05/Floor 05 Stage 17"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 18",
+                        "ref": "Floor 05/Floor 05 Stage 18"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 19",
+                        "ref": "Floor 05/Floor 05 Stage 19"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 20",
+                        "ref": "Floor 05/Floor 05 Stage 20"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 21",
+                        "ref": "Floor 05/Floor 05 Stage 21"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 22",
+                        "ref": "Floor 05/Floor 05 Stage 22"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 23",
+                        "ref": "Floor 05/Floor 05 Stage 23"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 24",
+                        "ref": "Floor 05/Floor 05 Stage 24"
+                    },
+                    {
+                        "name": "Floor 05 - Floor 05 Stage 25",
+                        "ref": "Floor 05/Floor 05 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 156,
+                        "y": 775,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 06",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 06 Boss 1 - Completion",
+                        "ref": "Floor 06/Floor 06 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 06 Boss 1 - Reward",
+                        "ref": "Floor 06/Floor 06 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 06 Boss 2 - Completion",
+                        "ref": "Floor 06/Floor 06 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 06 Boss 2 - Reward",
+                        "ref": "Floor 06/Floor 06 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 06 Boss 3 - Completion",
+                        "ref": "Floor 06/Floor 06 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 06 Boss 3 - Reward",
+                        "ref": "Floor 06/Floor 06 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 06 Boss 4 - Completion",
+                        "ref": "Floor 06/Floor 06 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 06 Boss 4 - Reward",
+                        "ref": "Floor 06/Floor 06 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 06 Boss 5 - Completion",
+                        "ref": "Floor 06/Floor 06 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 06 Boss - Completion",
+                        "ref": "Floor 06/Floor 06 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 1",
+                        "ref": "Floor 06/Floor 06 Stage 1"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 2",
+                        "ref": "Floor 06/Floor 06 Stage 2"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 3",
+                        "ref": "Floor 06/Floor 06 Stage 3"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 4",
+                        "ref": "Floor 06/Floor 06 Stage 4"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 5",
+                        "ref": "Floor 06/Floor 06 Stage 5"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 6",
+                        "ref": "Floor 06/Floor 06 Stage 6"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 7",
+                        "ref": "Floor 06/Floor 06 Stage 7"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 8",
+                        "ref": "Floor 06/Floor 06 Stage 8"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 9",
+                        "ref": "Floor 06/Floor 06 Stage 9"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 10",
+                        "ref": "Floor 06/Floor 06 Stage 10"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 11",
+                        "ref": "Floor 06/Floor 06 Stage 11"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 12",
+                        "ref": "Floor 06/Floor 06 Stage 12"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 13",
+                        "ref": "Floor 06/Floor 06 Stage 13"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 14",
+                        "ref": "Floor 06/Floor 06 Stage 14"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 15",
+                        "ref": "Floor 06/Floor 06 Stage 15"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 16",
+                        "ref": "Floor 06/Floor 06 Stage 16"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 17",
+                        "ref": "Floor 06/Floor 06 Stage 17"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 18",
+                        "ref": "Floor 06/Floor 06 Stage 18"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 19",
+                        "ref": "Floor 06/Floor 06 Stage 19"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 20",
+                        "ref": "Floor 06/Floor 06 Stage 20"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 21",
+                        "ref": "Floor 06/Floor 06 Stage 21"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 22",
+                        "ref": "Floor 06/Floor 06 Stage 22"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 23",
+                        "ref": "Floor 06/Floor 06 Stage 23"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 24",
+                        "ref": "Floor 06/Floor 06 Stage 24"
+                    },
+                    {
+                        "name": "Floor 06 - Floor 06 Stage 25",
+                        "ref": "Floor 06/Floor 06 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 284,
+                        "y": 573,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 07",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 07 Boss 1 - Completion",
+                        "ref": "Floor 07/Floor 07 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 07 Boss 1 - Reward",
+                        "ref": "Floor 07/Floor 07 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 07 Boss 2 - Completion",
+                        "ref": "Floor 07/Floor 07 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 07 Boss 2 - Reward",
+                        "ref": "Floor 07/Floor 07 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 07 Boss 3 - Completion",
+                        "ref": "Floor 07/Floor 07 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 07 Boss 3 - Reward",
+                        "ref": "Floor 07/Floor 07 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 07 Boss 4 - Completion",
+                        "ref": "Floor 07/Floor 07 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 07 Boss 4 - Reward",
+                        "ref": "Floor 07/Floor 07 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 07 Boss 5 - Completion",
+                        "ref": "Floor 07/Floor 07 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 07 Boss - Completion",
+                        "ref": "Floor 07/Floor 07 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 1",
+                        "ref": "Floor 07/Floor 07 Stage 1"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 2",
+                        "ref": "Floor 07/Floor 07 Stage 2"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 3",
+                        "ref": "Floor 07/Floor 07 Stage 3"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 4",
+                        "ref": "Floor 07/Floor 07 Stage 4"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 5",
+                        "ref": "Floor 07/Floor 07 Stage 5"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 6",
+                        "ref": "Floor 07/Floor 07 Stage 6"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 7",
+                        "ref": "Floor 07/Floor 07 Stage 7"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 8",
+                        "ref": "Floor 07/Floor 07 Stage 8"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 9",
+                        "ref": "Floor 07/Floor 07 Stage 9"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 10",
+                        "ref": "Floor 07/Floor 07 Stage 10"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 11",
+                        "ref": "Floor 07/Floor 07 Stage 11"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 12",
+                        "ref": "Floor 07/Floor 07 Stage 12"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 13",
+                        "ref": "Floor 07/Floor 07 Stage 13"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 14",
+                        "ref": "Floor 07/Floor 07 Stage 14"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 15",
+                        "ref": "Floor 07/Floor 07 Stage 15"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 16",
+                        "ref": "Floor 07/Floor 07 Stage 16"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 17",
+                        "ref": "Floor 07/Floor 07 Stage 17"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 18",
+                        "ref": "Floor 07/Floor 07 Stage 18"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 19",
+                        "ref": "Floor 07/Floor 07 Stage 19"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 20",
+                        "ref": "Floor 07/Floor 07 Stage 20"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 21",
+                        "ref": "Floor 07/Floor 07 Stage 21"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 22",
+                        "ref": "Floor 07/Floor 07 Stage 22"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 23",
+                        "ref": "Floor 07/Floor 07 Stage 23"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 24",
+                        "ref": "Floor 07/Floor 07 Stage 24"
+                    },
+                    {
+                        "name": "Floor 07 - Floor 07 Stage 25",
+                        "ref": "Floor 07/Floor 07 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 566,
+                        "y": 1537,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 08",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 08 Boss 1 - Completion",
+                        "ref": "Floor 08/Floor 08 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 08 Boss 1 - Reward",
+                        "ref": "Floor 08/Floor 08 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 08 Boss 2 - Completion",
+                        "ref": "Floor 08/Floor 08 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 08 Boss 2 - Reward",
+                        "ref": "Floor 08/Floor 08 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 08 Boss 3 - Completion",
+                        "ref": "Floor 08/Floor 08 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 08 Boss 3 - Reward",
+                        "ref": "Floor 08/Floor 08 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 08 Boss 4 - Completion",
+                        "ref": "Floor 08/Floor 08 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 08 Boss 4 - Reward",
+                        "ref": "Floor 08/Floor 08 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 08 Boss 5 - Completion",
+                        "ref": "Floor 08/Floor 08 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 08 Boss - Completion",
+                        "ref": "Floor 08/Floor 08 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 1",
+                        "ref": "Floor 08/Floor 08 Stage 1"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 2",
+                        "ref": "Floor 08/Floor 08 Stage 2"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 3",
+                        "ref": "Floor 08/Floor 08 Stage 3"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 4",
+                        "ref": "Floor 08/Floor 08 Stage 4"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 5",
+                        "ref": "Floor 08/Floor 08 Stage 5"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 6",
+                        "ref": "Floor 08/Floor 08 Stage 6"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 7",
+                        "ref": "Floor 08/Floor 08 Stage 7"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 8",
+                        "ref": "Floor 08/Floor 08 Stage 8"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 9",
+                        "ref": "Floor 08/Floor 08 Stage 9"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 10",
+                        "ref": "Floor 08/Floor 08 Stage 10"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 11",
+                        "ref": "Floor 08/Floor 08 Stage 11"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 12",
+                        "ref": "Floor 08/Floor 08 Stage 12"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 13",
+                        "ref": "Floor 08/Floor 08 Stage 13"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 14",
+                        "ref": "Floor 08/Floor 08 Stage 14"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 15",
+                        "ref": "Floor 08/Floor 08 Stage 15"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 16",
+                        "ref": "Floor 08/Floor 08 Stage 16"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 17",
+                        "ref": "Floor 08/Floor 08 Stage 17"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 18",
+                        "ref": "Floor 08/Floor 08 Stage 18"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 19",
+                        "ref": "Floor 08/Floor 08 Stage 19"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 20",
+                        "ref": "Floor 08/Floor 08 Stage 20"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 21",
+                        "ref": "Floor 08/Floor 08 Stage 21"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 22",
+                        "ref": "Floor 08/Floor 08 Stage 22"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 23",
+                        "ref": "Floor 08/Floor 08 Stage 23"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 24",
+                        "ref": "Floor 08/Floor 08 Stage 24"
+                    },
+                    {
+                        "name": "Floor 08 - Floor 08 Stage 25",
+                        "ref": "Floor 08/Floor 08 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1688,
+                        "y": 2157,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 09",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 09 Boss 1 - Completion",
+                        "ref": "Floor 09/Floor 09 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 09 Boss 1 - Reward",
+                        "ref": "Floor 09/Floor 09 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 09 Boss 2 - Completion",
+                        "ref": "Floor 09/Floor 09 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 09 Boss 2 - Reward",
+                        "ref": "Floor 09/Floor 09 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 09 Boss 3 - Completion",
+                        "ref": "Floor 09/Floor 09 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 09 Boss 3 - Reward",
+                        "ref": "Floor 09/Floor 09 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 09 Boss 4 - Completion",
+                        "ref": "Floor 09/Floor 09 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 09 Boss 4 - Reward",
+                        "ref": "Floor 09/Floor 09 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 09 Boss 5 - Completion",
+                        "ref": "Floor 09/Floor 09 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 09 Boss - Completion",
+                        "ref": "Floor 09/Floor 09 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 1",
+                        "ref": "Floor 09/Floor 09 Stage 1"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 2",
+                        "ref": "Floor 09/Floor 09 Stage 2"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 3",
+                        "ref": "Floor 09/Floor 09 Stage 3"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 4",
+                        "ref": "Floor 09/Floor 09 Stage 4"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 5",
+                        "ref": "Floor 09/Floor 09 Stage 5"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 6",
+                        "ref": "Floor 09/Floor 09 Stage 6"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 7",
+                        "ref": "Floor 09/Floor 09 Stage 7"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 8",
+                        "ref": "Floor 09/Floor 09 Stage 8"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 9",
+                        "ref": "Floor 09/Floor 09 Stage 9"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 10",
+                        "ref": "Floor 09/Floor 09 Stage 10"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 11",
+                        "ref": "Floor 09/Floor 09 Stage 11"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 12",
+                        "ref": "Floor 09/Floor 09 Stage 12"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 13",
+                        "ref": "Floor 09/Floor 09 Stage 13"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 14",
+                        "ref": "Floor 09/Floor 09 Stage 14"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 15",
+                        "ref": "Floor 09/Floor 09 Stage 15"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 16",
+                        "ref": "Floor 09/Floor 09 Stage 16"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 17",
+                        "ref": "Floor 09/Floor 09 Stage 17"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 18",
+                        "ref": "Floor 09/Floor 09 Stage 18"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 19",
+                        "ref": "Floor 09/Floor 09 Stage 19"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 20",
+                        "ref": "Floor 09/Floor 09 Stage 20"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 21",
+                        "ref": "Floor 09/Floor 09 Stage 21"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 22",
+                        "ref": "Floor 09/Floor 09 Stage 22"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 23",
+                        "ref": "Floor 09/Floor 09 Stage 23"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 24",
+                        "ref": "Floor 09/Floor 09 Stage 24"
+                    },
+                    {
+                        "name": "Floor 09 - Floor 09 Stage 25",
+                        "ref": "Floor 09/Floor 09 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1903,
+                        "y": 2320,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 10 Boss 1 - Completion",
+                        "ref": "Floor 10/Floor 10 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 10 Boss 1 - Reward",
+                        "ref": "Floor 10/Floor 10 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 10 Boss 2 - Completion",
+                        "ref": "Floor 10/Floor 10 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 10 Boss 2 - Reward",
+                        "ref": "Floor 10/Floor 10 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 10 Boss 3 - Completion",
+                        "ref": "Floor 10/Floor 10 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 10 Boss 3 - Reward",
+                        "ref": "Floor 10/Floor 10 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 10 Boss 4 - Completion",
+                        "ref": "Floor 10/Floor 10 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 10 Boss 4 - Reward",
+                        "ref": "Floor 10/Floor 10 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 10 Boss 5 - Completion",
+                        "ref": "Floor 10/Floor 10 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 10 Boss - Completion",
+                        "ref": "Floor 10/Floor 10 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 1",
+                        "ref": "Floor 10/Floor 10 Stage 1"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 2",
+                        "ref": "Floor 10/Floor 10 Stage 2"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 3",
+                        "ref": "Floor 10/Floor 10 Stage 3"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 4",
+                        "ref": "Floor 10/Floor 10 Stage 4"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 5",
+                        "ref": "Floor 10/Floor 10 Stage 5"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 6",
+                        "ref": "Floor 10/Floor 10 Stage 6"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 7",
+                        "ref": "Floor 10/Floor 10 Stage 7"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 8",
+                        "ref": "Floor 10/Floor 10 Stage 8"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 9",
+                        "ref": "Floor 10/Floor 10 Stage 9"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 10",
+                        "ref": "Floor 10/Floor 10 Stage 10"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 11",
+                        "ref": "Floor 10/Floor 10 Stage 11"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 12",
+                        "ref": "Floor 10/Floor 10 Stage 12"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 13",
+                        "ref": "Floor 10/Floor 10 Stage 13"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 14",
+                        "ref": "Floor 10/Floor 10 Stage 14"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 15",
+                        "ref": "Floor 10/Floor 10 Stage 15"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 16",
+                        "ref": "Floor 10/Floor 10 Stage 16"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 17",
+                        "ref": "Floor 10/Floor 10 Stage 17"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 18",
+                        "ref": "Floor 10/Floor 10 Stage 18"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 19",
+                        "ref": "Floor 10/Floor 10 Stage 19"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 20",
+                        "ref": "Floor 10/Floor 10 Stage 20"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 21",
+                        "ref": "Floor 10/Floor 10 Stage 21"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 22",
+                        "ref": "Floor 10/Floor 10 Stage 22"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 23",
+                        "ref": "Floor 10/Floor 10 Stage 23"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 24",
+                        "ref": "Floor 10/Floor 10 Stage 24"
+                    },
+                    {
+                        "name": "Floor 10 - Floor 10 Stage 25",
+                        "ref": "Floor 10/Floor 10 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1913,
+                        "y": 1280,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 11 Boss 1 - Completion",
+                        "ref": "Floor 11/Floor 11 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 11 Boss 1 - Reward",
+                        "ref": "Floor 11/Floor 11 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 11 Boss 2 - Completion",
+                        "ref": "Floor 11/Floor 11 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 11 Boss 2 - Reward",
+                        "ref": "Floor 11/Floor 11 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 11 Boss 3 - Completion",
+                        "ref": "Floor 11/Floor 11 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 11 Boss 3 - Reward",
+                        "ref": "Floor 11/Floor 11 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 11 Boss 4 - Completion",
+                        "ref": "Floor 11/Floor 11 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 11 Boss 4 - Reward",
+                        "ref": "Floor 11/Floor 11 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 11 Boss 5 - Completion",
+                        "ref": "Floor 11/Floor 11 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 11 Boss - Completion",
+                        "ref": "Floor 11/Floor 11 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 1",
+                        "ref": "Floor 11/Floor 11 Stage 1"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 2",
+                        "ref": "Floor 11/Floor 11 Stage 2"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 3",
+                        "ref": "Floor 11/Floor 11 Stage 3"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 4",
+                        "ref": "Floor 11/Floor 11 Stage 4"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 5",
+                        "ref": "Floor 11/Floor 11 Stage 5"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 6",
+                        "ref": "Floor 11/Floor 11 Stage 6"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 7",
+                        "ref": "Floor 11/Floor 11 Stage 7"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 8",
+                        "ref": "Floor 11/Floor 11 Stage 8"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 9",
+                        "ref": "Floor 11/Floor 11 Stage 9"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 10",
+                        "ref": "Floor 11/Floor 11 Stage 10"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 11",
+                        "ref": "Floor 11/Floor 11 Stage 11"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 12",
+                        "ref": "Floor 11/Floor 11 Stage 12"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 13",
+                        "ref": "Floor 11/Floor 11 Stage 13"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 14",
+                        "ref": "Floor 11/Floor 11 Stage 14"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 15",
+                        "ref": "Floor 11/Floor 11 Stage 15"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 16",
+                        "ref": "Floor 11/Floor 11 Stage 16"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 17",
+                        "ref": "Floor 11/Floor 11 Stage 17"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 18",
+                        "ref": "Floor 11/Floor 11 Stage 18"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 19",
+                        "ref": "Floor 11/Floor 11 Stage 19"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 20",
+                        "ref": "Floor 11/Floor 11 Stage 20"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 21",
+                        "ref": "Floor 11/Floor 11 Stage 21"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 22",
+                        "ref": "Floor 11/Floor 11 Stage 22"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 23",
+                        "ref": "Floor 11/Floor 11 Stage 23"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 24",
+                        "ref": "Floor 11/Floor 11 Stage 24"
+                    },
+                    {
+                        "name": "Floor 11 - Floor 11 Stage 25",
+                        "ref": "Floor 11/Floor 11 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2110,
+                        "y": 224,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 12",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 12 Boss 1 - Completion",
+                        "ref": "Floor 12/Floor 12 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 12 Boss 1 - Reward",
+                        "ref": "Floor 12/Floor 12 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 12 Boss 2 - Completion",
+                        "ref": "Floor 12/Floor 12 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 12 Boss 2 - Reward",
+                        "ref": "Floor 12/Floor 12 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 12 Boss 3 - Completion",
+                        "ref": "Floor 12/Floor 12 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 12 Boss 3 - Reward",
+                        "ref": "Floor 12/Floor 12 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 12 Boss 4 - Completion",
+                        "ref": "Floor 12/Floor 12 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 12 Boss 4 - Reward",
+                        "ref": "Floor 12/Floor 12 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 12 Boss 5 - Completion",
+                        "ref": "Floor 12/Floor 12 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 12 Boss - Completion",
+                        "ref": "Floor 12/Floor 12 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 1",
+                        "ref": "Floor 12/Floor 12 Stage 1"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 2",
+                        "ref": "Floor 12/Floor 12 Stage 2"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 3",
+                        "ref": "Floor 12/Floor 12 Stage 3"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 4",
+                        "ref": "Floor 12/Floor 12 Stage 4"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 5",
+                        "ref": "Floor 12/Floor 12 Stage 5"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 6",
+                        "ref": "Floor 12/Floor 12 Stage 6"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 7",
+                        "ref": "Floor 12/Floor 12 Stage 7"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 8",
+                        "ref": "Floor 12/Floor 12 Stage 8"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 9",
+                        "ref": "Floor 12/Floor 12 Stage 9"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 10",
+                        "ref": "Floor 12/Floor 12 Stage 10"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 11",
+                        "ref": "Floor 12/Floor 12 Stage 11"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 12",
+                        "ref": "Floor 12/Floor 12 Stage 12"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 13",
+                        "ref": "Floor 12/Floor 12 Stage 13"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 14",
+                        "ref": "Floor 12/Floor 12 Stage 14"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 15",
+                        "ref": "Floor 12/Floor 12 Stage 15"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 16",
+                        "ref": "Floor 12/Floor 12 Stage 16"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 17",
+                        "ref": "Floor 12/Floor 12 Stage 17"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 18",
+                        "ref": "Floor 12/Floor 12 Stage 18"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 19",
+                        "ref": "Floor 12/Floor 12 Stage 19"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 20",
+                        "ref": "Floor 12/Floor 12 Stage 20"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 21",
+                        "ref": "Floor 12/Floor 12 Stage 21"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 22",
+                        "ref": "Floor 12/Floor 12 Stage 22"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 23",
+                        "ref": "Floor 12/Floor 12 Stage 23"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 24",
+                        "ref": "Floor 12/Floor 12 Stage 24"
+                    },
+                    {
+                        "name": "Floor 12 - Floor 12 Stage 25",
+                        "ref": "Floor 12/Floor 12 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 591,
+                        "y": 1291,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 13",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 13 Boss 1 - Completion",
+                        "ref": "Floor 13/Floor 13 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 13 Boss 1 - Reward",
+                        "ref": "Floor 13/Floor 13 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 13 Boss 2 - Completion",
+                        "ref": "Floor 13/Floor 13 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 13 Boss 2 - Reward",
+                        "ref": "Floor 13/Floor 13 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 13 Boss 3 - Completion",
+                        "ref": "Floor 13/Floor 13 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 13 Boss 3 - Reward",
+                        "ref": "Floor 13/Floor 13 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 13 Boss 4 - Completion",
+                        "ref": "Floor 13/Floor 13 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 13 Boss 4 - Reward",
+                        "ref": "Floor 13/Floor 13 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 13 Boss 5 - Completion",
+                        "ref": "Floor 13/Floor 13 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 13 Boss - Completion",
+                        "ref": "Floor 13/Floor 13 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 1",
+                        "ref": "Floor 13/Floor 13 Stage 1"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 2",
+                        "ref": "Floor 13/Floor 13 Stage 2"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 3",
+                        "ref": "Floor 13/Floor 13 Stage 3"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 4",
+                        "ref": "Floor 13/Floor 13 Stage 4"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 5",
+                        "ref": "Floor 13/Floor 13 Stage 5"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 6",
+                        "ref": "Floor 13/Floor 13 Stage 6"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 7",
+                        "ref": "Floor 13/Floor 13 Stage 7"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 8",
+                        "ref": "Floor 13/Floor 13 Stage 8"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 9",
+                        "ref": "Floor 13/Floor 13 Stage 9"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 10",
+                        "ref": "Floor 13/Floor 13 Stage 10"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 11",
+                        "ref": "Floor 13/Floor 13 Stage 11"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 12",
+                        "ref": "Floor 13/Floor 13 Stage 12"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 13",
+                        "ref": "Floor 13/Floor 13 Stage 13"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 14",
+                        "ref": "Floor 13/Floor 13 Stage 14"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 15",
+                        "ref": "Floor 13/Floor 13 Stage 15"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 16",
+                        "ref": "Floor 13/Floor 13 Stage 16"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 17",
+                        "ref": "Floor 13/Floor 13 Stage 17"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 18",
+                        "ref": "Floor 13/Floor 13 Stage 18"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 19",
+                        "ref": "Floor 13/Floor 13 Stage 19"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 20",
+                        "ref": "Floor 13/Floor 13 Stage 20"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 21",
+                        "ref": "Floor 13/Floor 13 Stage 21"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 22",
+                        "ref": "Floor 13/Floor 13 Stage 22"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 23",
+                        "ref": "Floor 13/Floor 13 Stage 23"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 24",
+                        "ref": "Floor 13/Floor 13 Stage 24"
+                    },
+                    {
+                        "name": "Floor 13 - Floor 13 Stage 25",
+                        "ref": "Floor 13/Floor 13 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 257,
+                        "y": 2204,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 14",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 14 Boss 1 - Completion",
+                        "ref": "Floor 14/Floor 14 Boss 1/Completion"
+                    },
+                    {
+                        "name": "Floor 14 Boss 1 - Reward",
+                        "ref": "Floor 14/Floor 14 Boss 1/Reward"
+                    },
+                    {
+                        "name": "Floor 14 Boss 2 - Completion",
+                        "ref": "Floor 14/Floor 14 Boss 2/Completion"
+                    },
+                    {
+                        "name": "Floor 14 Boss 2 - Reward",
+                        "ref": "Floor 14/Floor 14 Boss 2/Reward"
+                    },
+                    {
+                        "name": "Floor 14 Boss 3 - Completion",
+                        "ref": "Floor 14/Floor 14 Boss 3/Completion"
+                    },
+                    {
+                        "name": "Floor 14 Boss 3 - Reward",
+                        "ref": "Floor 14/Floor 14 Boss 3/Reward"
+                    },
+                    {
+                        "name": "Floor 14 Boss 4 - Completion",
+                        "ref": "Floor 14/Floor 14 Boss 4/Completion"
+                    },
+                    {
+                        "name": "Floor 14 Boss 4 - Reward",
+                        "ref": "Floor 14/Floor 14 Boss 4/Reward"
+                    },
+                    {
+                        "name": "Floor 14 Boss 5 - Completion",
+                        "ref": "Floor 14/Floor 14 Boss 5/Completion"
+                    },
+                    {
+                        "name": "Floor 14 Boss - Completion",
+                        "ref": "Floor 14/Floor 14 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 1",
+                        "ref": "Floor 14/Floor 14 Stage 1"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 2",
+                        "ref": "Floor 14/Floor 14 Stage 2"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 3",
+                        "ref": "Floor 14/Floor 14 Stage 3"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 4",
+                        "ref": "Floor 14/Floor 14 Stage 4"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 5",
+                        "ref": "Floor 14/Floor 14 Stage 5"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 6",
+                        "ref": "Floor 14/Floor 14 Stage 6"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 7",
+                        "ref": "Floor 14/Floor 14 Stage 7"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 8",
+                        "ref": "Floor 14/Floor 14 Stage 8"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 9",
+                        "ref": "Floor 14/Floor 14 Stage 9"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 10",
+                        "ref": "Floor 14/Floor 14 Stage 10"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 11",
+                        "ref": "Floor 14/Floor 14 Stage 11"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 12",
+                        "ref": "Floor 14/Floor 14 Stage 12"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 13",
+                        "ref": "Floor 14/Floor 14 Stage 13"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 14",
+                        "ref": "Floor 14/Floor 14 Stage 14"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 15",
+                        "ref": "Floor 14/Floor 14 Stage 15"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 16",
+                        "ref": "Floor 14/Floor 14 Stage 16"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 17",
+                        "ref": "Floor 14/Floor 14 Stage 17"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 18",
+                        "ref": "Floor 14/Floor 14 Stage 18"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 19",
+                        "ref": "Floor 14/Floor 14 Stage 19"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 20",
+                        "ref": "Floor 14/Floor 14 Stage 20"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 21",
+                        "ref": "Floor 14/Floor 14 Stage 21"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 22",
+                        "ref": "Floor 14/Floor 14 Stage 22"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 23",
+                        "ref": "Floor 14/Floor 14 Stage 23"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 24",
+                        "ref": "Floor 14/Floor 14 Stage 24"
+                    },
+                    {
+                        "name": "Floor 14 - Floor 14 Stage 25",
+                        "ref": "Floor 14/Floor 14 Stage 25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 498,
+                        "y": 1569,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floor 15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 15 Boss - Completion",
+                        "ref": "Floor 15/Floor 15 Boss/Completion"
+                    },
+                    {
+                        "name": "Floor 15 - Floor 15 Stage 1",
+                        "ref": "Floor 15/Floor 15 Stage 1"
+                    },
+                    {
+                        "name": "Floor 15 - Floor 15 Stage 2",
+                        "ref": "Floor 15/Floor 15 Stage 2"
+                    },
+                    {
+                        "name": "Floor 15 - Floor 15 Stage 3",
+                        "ref": "Floor 15/Floor 15 Stage 3"
+                    },
+                    {
+                        "name": "Floor 15 - Floor 15 Stage 4",
+                        "ref": "Floor 15/Floor 15 Stage 4"
+                    },
+                    {
+                        "name": "Floor 15 - Floor 15 Stage 5",
+                        "ref": "Floor 15/Floor 15 Stage 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2384,
+                        "y": 2097,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Cleared !",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 945,
+                        "y": 2221,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

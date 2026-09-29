@@ -1,0 +1,16 @@
+{
+    "name": "Manual_LimbusCompany_EchoingEito Archipelago",
+    "game_name": "Manual_LimbusCompany_EchoingEito",
+    "package_version": "1.8.0",
+    "package_uid": "manual_limbuscompany_echoingeito_ap",
+    "author": "builder_script",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

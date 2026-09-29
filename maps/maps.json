@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Yi Sang",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yi Sang.png"
+    },
+    {
+        "name": "Faust",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Faust.png"
+    },
+    {
+        "name": "Don Quixote",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Don Quixote.png"
+    },
+    {
+        "name": "Ryoshu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ryoshu.png"
+    },
+    {
+        "name": "Meursault",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Meursault.png"
+    },
+    {
+        "name": "Hong Lu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hong Lu.png"
+    },
+    {
+        "name": "Heathcliff",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Heathcliff.png"
+    },
+    {
+        "name": "Ishmael",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ishmael.png"
+    },
+    {
+        "name": "Rodion",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rodion.png"
+    },
+    {
+        "name": "Sinclair",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sinclair.png"
+    },
+    {
+        "name": "Outis",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Outis.png"
+    },
+    {
+        "name": "Gregor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Gregor.png"
+    },
+    {
+        "name": "Overview",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Overview.png"
+    }
+]
