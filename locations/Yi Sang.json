@@ -18,81 +18,81 @@
                 ],
                 "sections": [
                     {
-                        "name": "Yi Sang ID name - 000 01",
+                        "name": "Dimension Shredder Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 02",
+                        "name": "HoS Index Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 03",
+                        "name": "Wu Branch Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 04",
+                        "name": "N Corp Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 05",
+                        "name": "Liu Assoc. Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 06",
+                        "name": "Solemn Lament Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 07",
+                        "name": "Ring Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 08",
+                        "name": "W Corp Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 09",
+                        "name": "Spice Bush Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 000 10",
+                        "name": "Blade Lineage Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -109,41 +109,41 @@
                 ],
                 "sections": [
                     {
-                        "name": "Yi Sang ID name - 00 1",
+                        "name": "Peqoud Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 00 2",
+                        "name": "Seven Assoc. Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 00 3",
+                        "name": "Dieci Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 00 4",
+                        "name": "Lantern Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Yi Sang ID name - 00 5",
+                        "name": "Molar Office Yi Sang",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
