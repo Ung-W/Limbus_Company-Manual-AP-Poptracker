@@ -162,7 +162,7 @@
                     {
                         "name": "LCB Sinner Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
