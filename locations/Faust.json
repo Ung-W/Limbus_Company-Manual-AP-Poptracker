@@ -18,89 +18,89 @@
                 ],
                 "sections": [
                     {
-                        "name": "Faust ID name - 000 01",
+                        "name": "Mao Branch Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, maostkey"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 02",
+                        "name": "Dawn Office Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 03",
+                        "name": "HoS Ring Apprentice Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 04",
+                        "name": "Index Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 05",
+                        "name": "Multicrack Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 06",
+                        "name": "Blade Lineage Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 07",
+                        "name": "Regret Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 08",
+                        "name": "Seven Assoc. Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 09",
+                        "name": "The One Who Grips Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 10",
+                        "name": "Shi Assoc. Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 000 11",
+                        "name": "Ardor Blossom Star Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -117,33 +117,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "Faust ID name - 00 1",
+                        "name": "Butler Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 00 2",
+                        "name": "W Corp Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 00 3",
+                        "name": "Zwei Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Faust ID name - 00 4",
+                        "name": "Lob Corp Agent Faust",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
