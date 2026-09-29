@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "honglu"
         ],
         "children": [
             {
@@ -18,81 +18,81 @@
                 ],
                 "sections": [
                     {
-                        "name": "Hong Lu ID name - 000 01",
+                        "name": "The Lord of Hongyuan Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 02",
+                        "name": "Cinq Assoc. East 3 Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 03",
+                        "name": "S Corp Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 04",
+                        "name": "HoS Ring Nursefather Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 05",
+                        "name": "R Corp Reindeer Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 06",
+                        "name": "Full Stop Office Rep Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 07",
+                        "name": "Yurodivy Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 08",
+                        "name": "Dieci Honglu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 09",
+                        "name": "K Corp Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 000 10",
+                        "name": "Tingtang Gang Gangleader Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -109,41 +109,41 @@
                 ],
                 "sections": [
                     {
-                        "name": "Hong Lu ID name - 00 1",
+                        "name": "KuroKumo Clan Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 00 2",
+                        "name": "Liu Assoc. Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 00 3",
+                        "name": "FangHunt Office Fixer",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 00 4",
+                        "name": "Hook Office Fixer Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Hong Lu ID name - 00 5",
+                        "name": "W Corp Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -162,7 +162,7 @@
                     {
                         "name": "LCB Sinner Hong Lu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
