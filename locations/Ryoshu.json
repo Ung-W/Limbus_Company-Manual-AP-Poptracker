@@ -18,89 +18,89 @@
                 ],
                 "sections": [
                     {
-                        "name": "Ryoshu ID name - 000 01",
+                        "name": "Blade of The House of Spiders Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn, bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 02",
+                        "name": "Faint Aroma & Solitude Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 03",
+                        "name": "Drifting Blade Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 04",
+                        "name": "N Corp Contempt Awe Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 05",
+                        "name": "Mao Branch Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 06",
+                        "name": "Bulter Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 07",
+                        "name": "W Corp Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 08",
+                        "name": "Kurokumo Clan Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 09",
+                        "name": "Chef Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 10",
+                        "name": "Le Noir Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 000 11",
+                        "name": "Red Eyes & Penitence",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -117,33 +117,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "Ryoshu ID name - 00 1",
+                        "name": "Seven Assoc. Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 00 2",
+                        "name": "Yurodivy Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 00 3",
+                        "name": "Liu Assoc. Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ryoshu ID name - 00 4",
+                        "name": "LCCB Assistant Manager Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, tremor, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -162,7 +162,7 @@
                     {
                         "name": "LCB Sinner Ryoshu",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
