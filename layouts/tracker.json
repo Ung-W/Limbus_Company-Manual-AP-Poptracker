@@ -28,6 +28,15 @@
                                 "type": "layout",
                                 "key": "sin_grid_horizontal"
                             }
+                        },
+                        {
+                            "type": "group",
+                            "header": "E.G.O.",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "ego_grid_horizontal"
+                            }
                         }
                     ]
                 },
