@@ -66,6 +66,14 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Blade Lineage Mentor Meursault with EGO",
+                        "access_rules": [
+                            "poise, bleed"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "R Corp Rhino Meursault",
                         "access_rules": [
                             "charge, bleed"
@@ -93,30 +101,6 @@
                         "name": "N Corp Grabhammer Meursault",
                         "access_rules": [
                             "bleed"
-                        ],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Meursault ID name - 000 11",
-                        "access_rules": [
-                            "keyword 1, keyword 2"
-                        ],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Meursault ID name - 000 12",
-                        "access_rules": [
-                            "keyword 1, keyword 2"
-                        ],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Meursault ID name - 000 13",
-                        "access_rules": [
-                            "keyword 1, keyword 2"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -186,11 +170,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Ring Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Ring Meursault"
                     }
                 ],
                 "map_locations": [
@@ -204,11 +188,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Hornet Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Hornet Meursault"
                     }
                 ],
                 "map_locations": [
@@ -222,11 +206,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Prince of La Manchaland Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Prince of La Manchaland Meursault"
                     }
                 ],
                 "map_locations": [
@@ -240,11 +224,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Thumb Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Thumb Meursault"
                     }
                 ],
                 "map_locations": [
@@ -258,11 +242,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Dieci Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Dieci Meursault"
                     }
                 ],
                 "map_locations": [
@@ -276,11 +260,33 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Blade Lineage Mentor Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Blade Lineage Mentor Meursault"
+                    },
+                    {
+                        "name": "Full Access to ID + EGO",
+                        "ref": "Meursault/000/Blade Lineage Mentor Meursault with EGO"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 374,
+                        "y": 79,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "R Corp Rhino Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/R Corp Rhino Meursault"
                     }
                 ],
                 "map_locations": [
@@ -294,11 +300,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "W Corp Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/W Corp Meursault"
                     }
                 ],
                 "map_locations": [
@@ -312,11 +318,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Cinq Assoc. West 3 Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/Cinq Assoc. West 3 Meursault"
                     }
                 ],
                 "map_locations": [
@@ -330,11 +336,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "N Corp Grabhammer Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/000/N Corp Grabhammer Meursault"
                     }
                 ],
                 "map_locations": [
@@ -348,11 +354,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Dead Rabbits Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Dead Rabbits Meursault"
                     }
                 ],
                 "map_locations": [
@@ -366,11 +372,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Middle Little Brother Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Middle Little Brother Meursault"
                     }
                 ],
                 "map_locations": [
@@ -384,11 +390,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Rosespanner Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Rosespanner Meursault"
                     }
                 ],
                 "map_locations": [
@@ -402,11 +408,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "Liu Assoc. Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Liu Assoc. Meursault"
                     }
                 ],
                 "map_locations": [
@@ -420,65 +426,11 @@
                 ]
             },
             {
-                "name": "Meursault ID",
+                "name": "LCB Sinner Meursault",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Meursault/00/ID"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Meursault ID",
-                "sections": [
-                    {
-                        "name": "ID",
-                        "ref": "Meursault/00/ID"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Meursault ID",
-                "sections": [
-                    {
-                        "name": "ID",
-                        "ref": "Meursault/00/ID"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Meursault ID",
-                "sections": [
-                    {
-                        "name": "ID",
-                        "ref": "Meursault/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Meursault/Base/LCB Sinner Meursault"
                     }
                 ],
                 "map_locations": [
