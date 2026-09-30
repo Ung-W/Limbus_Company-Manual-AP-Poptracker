@@ -58,7 +58,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Bulter Ryoshu",
+                        "name": "Butler Ryoshu",
                         "access_rules": [
                             "poise"
                         ],
@@ -170,11 +170,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Blade of The House of Spiders Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Blade of The House of Spiders Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +188,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Faint Aroma & Solitude Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Faint Aroma & Solitude Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +206,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Drifting Blade Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Drifting Blade Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +224,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "N Corp Contempt Awe Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/N Corp Contempt Awe Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +242,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Mao Branch Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Mao Branch Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +260,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Butler Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Butler Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +278,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "W Corp Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/W Corp Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +296,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Kurokumo Clan Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Kurokumo Clan Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +314,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Chef Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Chef Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Le Noir Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Le Noir Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Red Eyes & Penitence",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/000/Red Eyes & Penitence"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +368,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Seven Assoc. Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Seven Assoc. Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +386,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Yurodivy Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Yurodivy Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +404,11 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "Liu Assoc. Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Liu Assoc. Ryoshu"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +422,29 @@
                 ]
             },
             {
-                "name": "Ryoshu ID",
+                "name": "LCCB Assistant Manager Ryoshu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Ryoshu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/LCCB Assistant Manager Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 164,
+                        "y": 33,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/Base/LCB Sinner Ryoshu"
                     }
                 ],
                 "map_locations": [

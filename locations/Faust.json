@@ -170,11 +170,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Mao Branch Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Mao Branch Faust"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +188,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Dawn Office Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Dawn Office Faust"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +206,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "HoS Ring Apprentice Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/HoS Ring Apprentice Faust"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +224,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Index Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Index Faust"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +242,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Multicrack Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Multicrack Faust"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +260,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Blade Lineage Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Blade Lineage Faust"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +278,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Regret Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Regret Faust"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +296,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Seven Assoc. Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Seven Assoc. Faust"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +314,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "The One Who Grips Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/The One Who Grips Faust"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Shi Assoc. Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Shi Assoc. Faust"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Ardor Blossom Star Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/000/Ardor Blossom Star Faust"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +368,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Butler Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Butler Faust"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +386,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "W Corp Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/00/W Corp Faust"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +404,11 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Zwei Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Zwei Faust"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +422,29 @@
                 ]
             },
             {
-                "name": "Faust ID",
+                "name": "Lob Corp Agent Faust",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Faust/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Lob Corp Agent Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 164,
+                        "y": 33,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/Base/LCB Sinner Faust"
                     }
                 ],
                 "map_locations": [

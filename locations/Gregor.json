@@ -170,10 +170,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -188,10 +188,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -206,10 +206,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -224,10 +224,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -242,10 +242,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -260,10 +260,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -278,10 +278,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -296,10 +296,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -314,10 +314,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -332,10 +332,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -350,10 +350,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/000/ID"
                     }
                 ],
@@ -368,10 +368,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/00/ID"
                     }
                 ],
@@ -386,10 +386,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/00/ID"
                     }
                 ],
@@ -404,10 +404,10 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/00/ID"
                     }
                 ],
@@ -422,11 +422,29 @@
                 ]
             },
             {
-                "name": "Gregor ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Gregor/00/ID"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 164,
+                        "y": 33,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/Base/LCB Sinner Gregor"
                     }
                 ],
                 "map_locations": [

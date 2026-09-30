@@ -26,7 +26,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "HoS Index Yi Sang",
+                        "name": "HoS Index Nursefather Yi Sang",
                         "access_rules": [
                             "sinking, poise"
                         ],
@@ -61,6 +61,14 @@
                         "name": "Solemn Lament Yi Sang",
                         "access_rules": [
                             "sinking"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Solemn Lament Yi Sang with EGO",
+                        "access_rules": [
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -170,11 +178,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Dimension Shredder Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Dimension Shredder Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +196,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "HoS Index Nursefather Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/HoS Index Nursefather Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +214,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Wu Branch Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Wu Branch Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +232,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "N Corp Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/N Corp Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +250,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Liu Assoc. Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Liu Assoc. Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +268,33 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Solemn Lament Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Solemn Lament Yi Sang"
+                    },
+                    {
+                        "name": "Full Access to ID + EGO",
+                        "ref": "Yi Sang/000/Solemn Lament Yi Sang with EGO"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 374,
+                        "y": 42,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ring Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Ring Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +308,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "W Corp Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/W Corp Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +326,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Spice Bush Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Spice Bush Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +344,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Blade Lineage Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/000/Blade Lineage Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +362,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Peqoud Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Peqoud Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +380,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Seven Assoc. Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Seven Assoc. Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +398,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Dieci Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Dieci Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +416,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Lantern Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Lantern Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +434,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "Molar Office Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Molar Office Yi Sang"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +452,11 @@
                 ]
             },
             {
-                "name": "Yi Sang ID",
+                "name": "LCB Sinner Yi Sang",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Yi Sang/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/Base/LCB Sinner Yi Sang"
                     }
                 ],
                 "map_locations": [

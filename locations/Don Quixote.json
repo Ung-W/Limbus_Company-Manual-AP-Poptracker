@@ -162,11 +162,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Index Proxy Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Index Proxy Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -180,11 +180,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Wei Branch Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Wei Branch Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -198,11 +198,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "In The Name of Love and Hate Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/In The Name of Love and Hate Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -216,11 +216,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Manager of La Manchaland Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Manager of La Manchaland Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -234,11 +234,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Middle Little Sister Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Middle Little Sister Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -252,11 +252,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "W Corp Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/W Corp Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -270,11 +270,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Cinq Assoc. East 3 Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Cinq Assoc. East 3 Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -288,11 +288,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "T Corp Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/T Corp Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -306,11 +306,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Cinq Assoc South 5 Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Cinq Assoc South 5 Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -324,11 +324,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Le Noir Manager Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/000/Le Noir Manager Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -342,11 +342,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Blade Lineage Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Blade Lineage Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -360,11 +360,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Lantern Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Lantern Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -378,11 +378,11 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "N Corp Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/N Corp Don Quixote"
                     }
                 ],
                 "map_locations": [
@@ -396,11 +396,29 @@
                 ]
             },
             {
-                "name": "Don Quixote ID",
+                "name": "Shi Assoc. Don Quixote",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Don Quixote/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Shi Assoc. Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 164,
+                        "y": 33,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/Base/LCB Sinner Don Quixote"
                     }
                 ],
                 "map_locations": [

@@ -92,7 +92,7 @@
                     {
                         "name": "Tingtang Gang Gangleader Hong Lu",
                         "access_rules": [
-                            "bleed"
+                            "[bleed]"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -170,11 +170,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "The Lord of Hongyuan Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/The Lord of Hongyuan Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +188,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Cinq Assoc. East 3 Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Cinq Assoc. East 3 Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +206,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "S Corp Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/S Corp Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +224,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "HoS Ring Nursefather Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/HoS Ring Nursefather Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +242,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "R Corp Reindeer Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/R Corp Reindeer Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +260,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Full Stop Office Rep Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Full Stop Office Rep Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +278,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Yurodivy Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Yurodivy Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +296,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Dieci Honglu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Dieci Honglu"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +314,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "K Corp Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/K Corp Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Tingtang Gang Gangleader Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/000/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Tingtang Gang Gangleader Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "KuroKumo Clan Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/KuroKumo Clan Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +368,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Liu Assoc. Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/Liu Assoc. Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +386,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "FangHunt Office Fixer",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/FangHunt Office Fixer"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +404,11 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "Hook Office Fixer Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/Hook Office Fixer Hong Lu"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +422,29 @@
                 ]
             },
             {
-                "name": "Hong Lu ID",
+                "name": "W Corp Hong Lu",
                 "sections": [
                     {
-                        "name": "ID",
-                        "ref": "Hong Lu/00/ID"
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/W Corp Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 164,
+                        "y": 33,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/Base/LCB Sinner Hong Lu"
                     }
                 ],
                 "map_locations": [
