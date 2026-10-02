@@ -1,8 +1,8 @@
 [
     {
-        "name": "Star Light Guidance",
+        "name": "Starlight Guidance",
         "type": "toggle",
-        "img": "images/items/starlightguidance.png",
+        "img": "images/items/MDBonus/starlightguidance.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "starlightguidance"
@@ -10,7 +10,7 @@
     {
         "name": "Ryoshu",
         "type": "toggle",
-        "img": "images/items/ryoshu.png",
+        "img": "images/items/Sinner/ryoshu.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ryoshu"
@@ -26,7 +26,7 @@
     {
         "name": "Interstellar Travel",
         "type": "toggle",
-        "img": "images/items/interstellartravel.png",
+        "img": "images/items/MDBonus/interstellartravel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "interstellartravel"
@@ -34,7 +34,7 @@
     {
         "name": "Binary Star-Shop",
         "type": "toggle",
-        "img": "images/items/binarystar-shop.png",
+        "img": "images/items/MDBonus/binarystar-shop.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "binarystar-shop"
@@ -42,7 +42,7 @@
     {
         "name": "WAW EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/wawegoslotunlock.png",
+        "img": "images/items/EgoClass/wawegoslotunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wawegoslotunlock"
@@ -88,7 +88,7 @@
     {
         "name": "Meursault",
         "type": "toggle",
-        "img": "images/items/meursault.png",
+        "img": "images/items/Sinner/meursault.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "meursault"
@@ -96,7 +96,7 @@
     {
         "name": "Outis",
         "type": "toggle",
-        "img": "images/items/outis.png",
+        "img": "images/items/Sinner/outis.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "outis"
@@ -104,7 +104,7 @@
     {
         "name": "Hong Lu",
         "type": "toggle",
-        "img": "images/items/honglu.png",
+        "img": "images/items/Sinner/honglu.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "honglu"
@@ -120,7 +120,7 @@
     {
         "name": "Faust",
         "type": "toggle",
-        "img": "images/items/faust.png",
+        "img": "images/items/Sinner/faust.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "faust"
@@ -144,7 +144,7 @@
     {
         "name": "Maost Key",
         "type": "toggle",
-        "img": "images/items/maostkey.png",
+        "img": "images/items/Sinner/maostkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "maostkey"
@@ -192,7 +192,7 @@
     {
         "name": "Gregor",
         "type": "toggle",
-        "img": "images/items/gregor.png",
+        "img": "images/items/Sinner/gregor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gregor"
@@ -200,7 +200,7 @@
     {
         "name": "Rupture",
         "type": "toggle",
-        "img": "images/items/rupture.png",
+        "img": "images/items/Keyword/rupture.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rupture"
@@ -280,7 +280,7 @@
     {
         "name": "ZAYIN EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/zayinegoslotunlock.png",
+        "img": "images/items/EgoClass/zayinegoslotunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "zayinegoslotunlock"
@@ -288,7 +288,7 @@
     {
         "name": "Chance Comet",
         "type": "toggle",
-        "img": "images/items/chancecomet.png",
+        "img": "images/items/MDBonus/chancecomet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "chancecomet"
@@ -304,7 +304,7 @@
     {
         "name": "Heathcliff",
         "type": "toggle",
-        "img": "images/items/heathcliff.png",
+        "img": "images/items/Sinner/heathcliff.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "heathcliff"
@@ -312,7 +312,7 @@
     {
         "name": "Sinking",
         "type": "toggle",
-        "img": "images/items/sinking.png",
+        "img": "images/items/Keyword/sinking.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sinking"
@@ -320,7 +320,7 @@
     {
         "name": "Star-Shower",
         "type": "toggle",
-        "img": "images/items/star-shower.png",
+        "img": "images/items/MDBonus/star-shower.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "star-shower"
@@ -328,7 +328,7 @@
     {
         "name": "Perfected Possibility",
         "type": "toggle",
-        "img": "images/items/perfectedpossibility.png",
+        "img": "images/items/MDBonus/perfectedpossibility.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "perfectedpossibility"
@@ -336,7 +336,7 @@
     {
         "name": "Sinclair",
         "type": "toggle",
-        "img": "images/items/sinclair.png",
+        "img": "images/items/Sinner/sinclair.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sinclair"
@@ -352,7 +352,7 @@
     {
         "name": "Favor of the Nebulae",
         "type": "toggle",
-        "img": "images/items/favorofthenebulae.png",
+        "img": "images/items/MDBonus/favorofthenebulae.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "favorofthenebulae"
@@ -368,7 +368,7 @@
     {
         "name": "Bleed",
         "type": "toggle",
-        "img": "images/items/bleed.png",
+        "img": "images/items/Keyword/bleed.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bleed"
@@ -376,7 +376,7 @@
     {
         "name": "TETH EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/tethegoslotunlock.png",
+        "img": "images/items/EgoClass/tethegoslotunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tethegoslotunlock"
@@ -400,15 +400,15 @@
     {
         "name": "Tremor",
         "type": "toggle",
-        "img": "images/items/tremor.png",
+        "img": "images/items/Keyword/tremor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tremor"
     },
     {
-        "name": "starofthebeginning",
+        "name": "Star of the Beginning",
         "type": "toggle",
-        "img": "images/items/starofthebeginning.png",
+        "img": "images/items/MDBonus/starofthebeginning.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "starofthebeginning"
@@ -446,7 +446,7 @@
     {
         "name": "Rodion",
         "type": "toggle",
-        "img": "images/items/rodion.png",
+        "img": "images/items/Sinner/rodion.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rodion"
@@ -454,7 +454,7 @@
     {
         "name": "Don Quixote",
         "type": "toggle",
-        "img": "images/items/donquixote.png",
+        "img": "images/items/Sinner/donquixote.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "donquixote"
@@ -462,7 +462,7 @@
     {
         "name": "Burn",
         "type": "toggle",
-        "img": "images/items/burn.png",
+        "img": "images/items/Keyword/burn.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "burn"
@@ -502,15 +502,15 @@
     {
         "name": "HE EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/heegoslotunlock.png",
+        "img": "images/items/EgoClass/heegoslotunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "heegoslotunlock"
     },
     {
-        "name": "Moonstar-Shop",
+        "name": "Moon Star-Shop",
         "type": "toggle",
-        "img": "images/items/moonstar-shop.png",
+        "img": "images/items/MDBonus/moonstar-shop.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "moonstar-shop"
@@ -526,7 +526,7 @@
     {
         "name": "Yi Sang",
         "type": "toggle",
-        "img": "images/items/yisang.png",
+        "img": "images/items/Sinner/yisang.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "yisang"
@@ -534,7 +534,7 @@
     {
         "name": "Poise",
         "type": "toggle",
-        "img": "images/items/poise.png",
+        "img": "images/items/Keyword/poise.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "poise"
@@ -542,7 +542,7 @@
     {
         "name": "Ishmael",
         "type": "toggle",
-        "img": "images/items/ishmael.png",
+        "img": "images/items/Sinner/ishmael.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ishmael"
@@ -550,7 +550,7 @@
     {
         "name": "Charge",
         "type": "toggle",
-        "img": "images/items/charge.png",
+        "img": "images/items/Keyword/charge.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "charge"
@@ -596,7 +596,7 @@
     {
         "name": "Cumulating Starcloud",
         "type": "toggle",
-        "img": "images/items/cumulatingstarcloud.png",
+        "img": "images/items/MDBonus/cumulatingstarcloud.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cumulatingstarcloud"

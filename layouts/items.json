@@ -40,6 +40,40 @@
             }
         ]
     },
+    "sinners_unlock_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "",
+                                "",
+                                "",
+                                "maostkey",
+                                "",
+                                "",
+                                ""
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
     "sin_grid_horizontal": {
         "type": "array",
         "orientation": "vertical",
@@ -100,6 +134,49 @@
                                 "",
                                 "heegoslotunlock",
                                 "wawegoslotunlock",
+                                ""
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "md_buff_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "",
+                                "starofthebeginning",
+                                "cumulatingstarcloud",
+                                "interstellartravel",
+                                "star-shower",
+                                "binarystar-shop",
+                                ""
+                            ],
+                            [
+                                "",
+                                "moonstar-shop",
+                                "favorofthenebulae",
+                                "starlightguidance",
+                                "chancecomet",
+                                "perfectedpossibility",
                                 ""
                             ]
                         ]
