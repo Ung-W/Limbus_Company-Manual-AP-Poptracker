@@ -172,8 +172,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 3,
-                        "y": 1,
+                        "x": 1044,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -190,8 +190,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 3,
-                        "y": 2,
+                        "x": 1044,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -208,8 +208,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 3,
-                        "y": 3,
+                        "x": 1044,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -226,8 +226,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 4,
-                        "y": 1,
+                        "x": 1377,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -244,8 +244,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 4,
-                        "y": 2,
+                        "x": 1377,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -262,8 +262,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 4,
-                        "y": 3,
+                        "x": 1377,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -280,8 +280,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 5,
-                        "y": 1,
+                        "x": 1710,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -298,8 +298,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 5,
-                        "y": 2,
+                        "x": 1710,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -316,8 +316,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 5,
-                        "y": 3,
+                        "x": 1710,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -334,8 +334,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 2,
-                        "y": 1,
+                        "x": 711,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -352,8 +352,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 1,
-                        "y": 2,
+                        "x": 378,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -370,8 +370,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 2,
-                        "y": 2,
+                        "x": 711,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -388,8 +388,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 1,
-                        "y": 3,
+                        "x": 378,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -406,8 +406,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 2,
-                        "y": 3,
+                        "x": 711,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -424,8 +424,8 @@
                 "map_locations": [
                     {
                         "map": "Sinclair",
-                        "x": 278,
-                        "y": 33,
+                        "x": 378,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

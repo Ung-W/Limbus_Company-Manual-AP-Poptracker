@@ -424,8 +424,8 @@
                 "map_locations": [
                     {
                         "map": "Outis",
-                        "x": 278,
-                        "y": 33,
+                        "x": 378,
+                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
