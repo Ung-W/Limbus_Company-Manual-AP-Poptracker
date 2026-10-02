@@ -170,271 +170,289 @@
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 2043,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/000/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 2043,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/00/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/00/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/00/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Ishmael ID",
+                "name": "/ID",
                 "sections": [
                     {
-                        "name": "ID",
+                        "name": "Access to ID",
                         "ref": "Ishmael/00/ID"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ishmael",
-                        "x": 164,
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCB Sinner Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/Base/LCB Sinner Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 278,
                         "y": 33,
-                        "size": 30,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
