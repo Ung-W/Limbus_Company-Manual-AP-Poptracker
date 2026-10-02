@@ -42,7 +42,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "N Corp Yi Sang",
+                        "name": "N Corp Fell Bullet Yi Sang",
                         "access_rules": [
                             "bleed, poise"
                         ],
@@ -117,7 +117,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Peqoud Yi Sang",
+                        "name": "Pequod Yi Sang",
                         "access_rules": [
                             "bleed, poise"
                         ],
@@ -188,9 +188,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 2043,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -206,9 +206,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -224,27 +224,27 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "N Corp Yi Sang",
+                "name": "N Corp Fell Bullet Yi Sang",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Yi Sang/000/N Corp Yi Sang"
+                        "ref": "Yi Sang/000/N Corp Fell Bullet Yi Sang"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1710,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -260,9 +260,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -282,9 +282,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 374,
-                        "y": 42,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -300,9 +300,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1377,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -318,9 +318,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -336,9 +336,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -354,27 +354,27 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 1044,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Peqoud Yi Sang",
+                "name": "Pequod Yi Sang",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Yi Sang/00/Peqoud Yi Sang"
+                        "ref": "Yi Sang/00/Pequod Yi Sang"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -390,9 +390,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 711,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -408,9 +408,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -426,9 +426,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -444,9 +444,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]
@@ -462,9 +462,9 @@
                 "map_locations": [
                     {
                         "map": "Yi Sang",
-                        "x": 164,
-                        "y": 33,
-                        "size": 30,
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
                         "shape": "rect"
                     }
                 ]

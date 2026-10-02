@@ -3,6 +3,15 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Misc",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overview"
+                    ]
+                }
+            },
+            {
                 "title": "Yi Sang",
                 "content": {
                     "type": "map",
