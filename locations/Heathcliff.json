@@ -170,7 +170,7 @@
                     {
                         "name": "LCB Sinner Heathcliff",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
