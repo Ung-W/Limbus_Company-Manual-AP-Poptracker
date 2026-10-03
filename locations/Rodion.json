@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "rodion"
         ],
         "children": [
             {
@@ -18,97 +18,97 @@
                 ],
                 "sections": [
                     {
-                        "name": "Rodion ID name - 000 01",
+                        "name": "Alteration Shop Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 02",
+                        "name": "Si Branch Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 03",
+                        "name": "HoS Thumb Nursefather Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 04",
+                        "name": "Ring Favist Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 05",
+                        "name": "The Sword Sharpened with Tears Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 06",
+                        "name": "Princess of La Manchaland Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 07",
+                        "name": "Dieci South 4 Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 08",
+                        "name": "KuroKumo Clan Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 09",
+                        "name": "Liu Assoc. South 4 Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 10",
+                        "name": "Rosepanner Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 11",
+                        "name": "R Corp Reindeer Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 000 12",
+                        "name": "Devyat Assoc. North 3 Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -125,33 +125,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "Rodion ID name - 00 1",
+                        "name": "Zwei Assoc. South 5 Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 00 2",
+                        "name": "T Corp Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 00 3",
+                        "name": "LCCB Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Rodion ID name - 00 4",
+                        "name": "N Corp Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -170,7 +170,7 @@
                     {
                         "name": "LCB Sinner Rodion",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
