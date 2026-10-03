@@ -22,15 +22,6 @@
                         },
                         {
                             "type": "group",
-                            "header": "Sinner Key",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "sinners_unlock_grid_horizontal"
-                            }
-                        },
-                        {
-                            "type": "group",
                             "header": "Sin",
                             "dock": "top",
                             "content": {
@@ -40,11 +31,11 @@
                         },
                         {
                             "type": "group",
-                            "header": "E.G.O.",
+                            "header": "Sinner Related Unlock",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "ego_grid_horizontal"
+                                "key": "sinners_unlock_grid_horizontal"
                             }
                         },
                         {
@@ -54,6 +45,15 @@
                             "content": {
                                 "type": "layout",
                                 "key": "md_buff_grid_horizontal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Shop Abilities",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "shop_abilities_grid_horizontal"
                             }
                         }
                     ]

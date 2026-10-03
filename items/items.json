@@ -16,9 +16,9 @@
         "codes": "ryoshu"
     },
     {
-        "name": "skillreplacementunlock",
+        "name": "Skill Replacement Unlock",
         "type": "toggle",
-        "img": "images/items/skillreplacementunlock.png",
+        "img": "images/items/MDBonus/skillreplacementunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "skillreplacementunlock"
@@ -416,7 +416,7 @@
     {
         "name": "Craft EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/craftegosunlock.png",
+        "img": "images/items/MDBonus/craftegosunlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "craftegosunlock"
