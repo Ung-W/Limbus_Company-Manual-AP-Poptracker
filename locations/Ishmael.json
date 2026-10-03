@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "ishmael"
         ],
         "children": [
             {
@@ -18,89 +18,89 @@
                 ],
                 "sections": [
                     {
-                        "name": "Ishmael ID name - 000 01",
+                        "name": "Boutique Du Rogue Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 02",
+                        "name": "LCD Osir Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 03",
+                        "name": "HoS Middle Apprentice Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 04",
+                        "name": "Jeong Office Rep Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 05",
+                        "name": "Family Hierarch Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "rupture, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 06",
+                        "name": "KuroKumo Clan Captain Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 07",
+                        "name": "Zwei Assoc. West 3 Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 08",
+                        "name": "Molar Boatworks Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 09",
+                        "name": "Pequod Captain Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "bleed, burn, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 10",
+                        "name": "Liu Assoc South 4 Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 000 11",
+                        "name": "R Corp Reindeer Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "sinking, charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -117,33 +117,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "Ishmael ID name - 00 1",
+                        "name": "Shi Assoc. Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 00 2",
+                        "name": "Edgar Family Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 00 3",
+                        "name": "LCCB Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ishmael ID name - 00 4",
+                        "name": "Sloshing Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -162,7 +162,7 @@
                     {
                         "name": "LCB Sinner Ishmael",
                         "access_rules": [
-                            "keyword 1, keyword 2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
