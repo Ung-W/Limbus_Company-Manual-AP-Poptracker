@@ -18,7 +18,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Boutique Du Rogue Ishmael",
+                        "name": "Boutique Du Rouge Ishmael",
                         "access_rules": [
                             "charge, bleed"
                         ],
@@ -170,11 +170,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "R Corp Reindeer Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/R Corp Reindeer Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +188,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Liu Assoc South 4 Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Liu Assoc South 4 Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +206,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Molar Boatworks Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Molar Boatworks Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +224,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Pequod Captain Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Pequod Captain Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +242,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Zwei Assoc. West 3 Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Zwei Assoc. West 3 Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +260,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "KuroKumo Clan Captain Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/KuroKumo Clan Captain Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +278,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Family Hierarch Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Family Hierarch Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +296,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Jeong Office Rep Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Jeong Office Rep Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +314,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "HoS Middle Apprentice Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/HoS Middle Apprentice Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "LCD Osir Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/LCD Osir Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Boutique Du Rouge Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/000/ID"
+                        "ref": "Ishmael/000/Boutique Du Rouge Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +368,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Shi Assoc. Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/00/ID"
+                        "ref": "Ishmael/00/Shi Assoc. Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +386,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "LCCB Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/00/ID"
+                        "ref": "Ishmael/00/LCCB Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +404,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Sloshing Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/00/ID"
+                        "ref": "Ishmael/00/Sloshing Ishmael"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +422,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Edgar Family Ishmael",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ishmael/00/ID"
+                        "ref": "Ishmael/00/Edgar Family Ishmael"
                     }
                 ],
                 "map_locations": [

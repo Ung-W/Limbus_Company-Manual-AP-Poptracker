@@ -178,11 +178,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "KuroKumo Clan Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/KuroKumo Clan Rodion"
                     }
                 ],
                 "map_locations": [
@@ -196,11 +196,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Rosepanner Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Rosepanner Rodion"
                     }
                 ],
                 "map_locations": [
@@ -214,11 +214,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Dieci South 4 Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Dieci South 4 Rodion"
                     }
                 ],
                 "map_locations": [
@@ -232,11 +232,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Liu Assoc. South 4 Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Liu Assoc. South 4 Rodion"
                     }
                 ],
                 "map_locations": [
@@ -250,11 +250,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Devyat Assoc. North 3 Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Devyat Assoc. North 3 Rodion"
                     }
                 ],
                 "map_locations": [
@@ -268,11 +268,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Princess of La Manchaland Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Princess of La Manchaland Rodion"
                     }
                 ],
                 "map_locations": [
@@ -286,11 +286,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Si Branch Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Si Branch Rodion"
                     }
                 ],
                 "map_locations": [
@@ -304,11 +304,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "The Sword Sharpened with Tears Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/The Sword Sharpened with Tears Rodion"
                     }
                 ],
                 "map_locations": [
@@ -322,11 +322,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "R Corp Reindeer Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/R Corp Reindeer Rodion"
                     }
                 ],
                 "map_locations": [
@@ -340,11 +340,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Ring Favist Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Ring Favist Rodion"
                     }
                 ],
                 "map_locations": [
@@ -358,11 +358,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "HoS Thumb Nursefather Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/HoS Thumb Nursefather Rodion"
                     }
                 ],
                 "map_locations": [
@@ -376,11 +376,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Alteration Shop Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/000/ID"
+                        "ref": "Rodion/000/Alteration Shop Rodion"
                     }
                 ],
                 "map_locations": [
@@ -394,11 +394,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "LCCB Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/00/ID"
+                        "ref": "Rodion/00/LCCB Rodion"
                     }
                 ],
                 "map_locations": [
@@ -412,11 +412,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "N Corp Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/00/ID"
+                        "ref": "Rodion/00/N Corp Rodion"
                     }
                 ],
                 "map_locations": [
@@ -430,11 +430,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Zwei Assoc. South 5 Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/00/ID"
+                        "ref": "Rodion/00/Zwei Assoc. South 5 Rodion"
                     }
                 ],
                 "map_locations": [
@@ -448,11 +448,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "T Corp Rodion",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Rodion/00/ID"
+                        "ref": "Rodion/00/T Corp Rodion"
                     }
                 ],
                 "map_locations": [

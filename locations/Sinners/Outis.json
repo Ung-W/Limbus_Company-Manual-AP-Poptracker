@@ -162,11 +162,29 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Seven Assoc. South 6 Director Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/Seven Assoc. South 6 Director Outis"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Outis",
+                        "x": 1044,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Molar Office Outis",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Outis/000/Molar Office Outis"
                     }
                 ],
                 "map_locations": [
@@ -180,11 +198,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Magic Bullet Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/Magic Bullet Outis"
                     }
                 ],
                 "map_locations": [
@@ -198,11 +216,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Wuthering Heights Chief Butler Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/Wuthering Heights Chief Butler Outis"
                     }
                 ],
                 "map_locations": [
@@ -216,11 +234,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "W Corp Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/W Corp Outis"
                     }
                 ],
                 "map_locations": [
@@ -234,11 +252,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Barber of La Manchaland Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/Barber of La Manchaland Outis"
                     }
                 ],
                 "map_locations": [
@@ -252,11 +270,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Mao Branch Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/Mao Branch Outis"
                     }
                 ],
                 "map_locations": [
@@ -270,11 +288,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "T Corp Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/T Corp Outis"
                     }
                 ],
                 "map_locations": [
@@ -288,11 +306,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "LCA Udjat Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/LCA Udjat Outis"
                     }
                 ],
                 "map_locations": [
@@ -306,11 +324,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "HoS The Middle Nursefather Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
+                        "ref": "Outis/000/HoS The Middle Nursefather Outis"
                     }
                 ],
                 "map_locations": [
@@ -324,29 +342,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Blade Lineage Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/000/ID"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Outis",
-                        "x": 2043,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "/ID",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Outis/00/ID"
+                        "ref": "Outis/00/Blade Lineage Outis"
                     }
                 ],
                 "map_locations": [
@@ -360,11 +360,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "G Corp Head Manager Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/00/ID"
+                        "ref": "Outis/00/G Corp Head Manager Outis"
                     }
                 ],
                 "map_locations": [
@@ -378,11 +378,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Cinq Assoc. South 4 Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/00/ID"
+                        "ref": "Outis/00/Cinq Assoc. South 4 Outis"
                     }
                 ],
                 "map_locations": [
@@ -396,11 +396,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Ring Student Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Outis/00/ID"
+                        "ref": "Outis/00/Ring Student Outis"
                     }
                 ],
                 "map_locations": [

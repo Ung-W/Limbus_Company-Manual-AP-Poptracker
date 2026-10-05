@@ -26,7 +26,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "The Middle Big Brother Heathclff",
+                        "name": "The Middle Big Brother Heathcliff",
                         "access_rules": [
                             "bleed, burn"
                         ],
@@ -143,15 +143,7 @@
                     {
                         "name": "Shi Assoc Heathcliff",
                         "access_rules": [
-                            " "
-                        ],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Heathcliff ID name - 00 5",
-                        "access_rules": [
-                            "keyword 1, keyword 2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -178,11 +170,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "R Corp Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/R Corp Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -196,11 +188,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "SunShower Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/SunShower Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -214,11 +206,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Pequod Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/Pequod Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -232,11 +224,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Oufi Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/Oufi Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -250,11 +242,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Wildhunt Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/Wildhunt Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -268,11 +260,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Full Stop Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/Full Stop Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -286,11 +278,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "KuroKumo Clan Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/KuroKumo Clan Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -304,11 +296,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "W Corp heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/W Corp heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -322,11 +314,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "You Branch Adept Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/You Branch Adept Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -340,11 +332,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "The Middle Big Brother Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/The Middle Big Brother Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -358,11 +350,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "HoS Thumb Apprentice Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/000/ID"
+                        "ref": "Heathcliff/000/HoS Thumb Apprentice Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -376,29 +368,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Shi Assoc Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/00/ID"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Heathcliff",
-                        "x": 711,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "/ID",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Heathcliff/00/ID"
+                        "ref": "Heathcliff/00/Shi Assoc Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -412,11 +386,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "N Corp Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/00/ID"
+                        "ref": "Heathcliff/00/N Corp Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -430,11 +404,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Seven Assoc. Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/00/ID"
+                        "ref": "Heathcliff/00/Seven Assoc. Heathcliff"
                     }
                 ],
                 "map_locations": [
@@ -448,11 +422,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Multicrack Heathcliff",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Heathcliff/00/ID"
+                        "ref": "Heathcliff/00/Multicrack Heathcliff"
                     }
                 ],
                 "map_locations": [

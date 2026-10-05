@@ -162,11 +162,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Blade Lineage Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/Blade Lineage Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -180,11 +180,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "The One Who Shall Grip Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/The One Who Shall Grip Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -198,11 +198,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Cinq Assoc. South 4 Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/Cinq Assoc. South 4 Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -216,11 +216,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Dawn Office Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/Dawn Office Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -234,11 +234,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Devyat Assoc. North 3 Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/Devyat Assoc. North 3 Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -252,11 +252,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "The Middle Little Brother Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/The Middle Little Brother Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -270,11 +270,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Thumb East 3 Soldato Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/Thumb East 3 Soldato Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -288,11 +288,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "You Branch Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/You Branch Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -306,11 +306,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "HoS Pinky Apprentice Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/ID"
+                        "ref": "Sinclair/000/HoS Pinky Apprentice Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -324,11 +324,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Zwei Assoc. South 3 Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/ID"
+                        "ref": "Sinclair/00/Zwei Assoc. South 3 Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -342,11 +342,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Los Mariachis Jefe Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/ID"
+                        "ref": "Sinclair/00/Los Mariachis Jefe Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -360,11 +360,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Red Sheet Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/ID"
+                        "ref": "Sinclair/00/Red Sheet Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -378,11 +378,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Molar Boatworks Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/ID"
+                        "ref": "Sinclair/00/Molar Boatworks Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -396,11 +396,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Zwei Assoc. West 3 Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/ID"
+                        "ref": "Sinclair/00/Zwei Assoc. West 3 Sinclair"
                     }
                 ],
                 "map_locations": [

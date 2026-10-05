@@ -170,11 +170,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "G Corp Manager Corporal",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/G Corp Manager Corporal"
                     }
                 ],
                 "map_locations": [
@@ -188,11 +188,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Zwei Assoc. South 4 Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Zwei Assoc. South 4 Gregor"
                     }
                 ],
                 "map_locations": [
@@ -206,11 +206,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Twinhooks First Mate Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Twinhooks First Mate Gregor"
                     }
                 ],
                 "map_locations": [
@@ -224,11 +224,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Edgar Family Heir Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Edgar Family Heir Gregor"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +242,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Priest of La Manchaland Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Priest of La Manchaland Gregor"
                     }
                 ],
                 "map_locations": [
@@ -260,11 +260,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Firefist Office Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Firefist Office Gregor"
                     }
                 ],
                 "map_locations": [
@@ -278,11 +278,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Si Branch Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Si Branch Gregor"
                     }
                 ],
                 "map_locations": [
@@ -296,11 +296,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Night Awls Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Night Awls Gregor"
                     }
                 ],
                 "map_locations": [
@@ -314,11 +314,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Lamp Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Lamp Gregor"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "LCE AEDD Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/LCE AEDD Gregor"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Dawn Office Rep Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/ID"
+                        "ref": "Gregor/000/Dawn Office Rep Gregor"
                     }
                 ],
                 "map_locations": [
@@ -368,11 +368,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Liu Assoc. South 6 Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/00/ID"
+                        "ref": "Gregor/00/Liu Assoc. South 6 Gregor"
                     }
                 ],
                 "map_locations": [
@@ -386,11 +386,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Sous Chef Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/00/ID"
+                        "ref": "Gregor/00/Sous Chef Gregor"
                     }
                 ],
                 "map_locations": [
@@ -404,11 +404,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "Rosepanner Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/00/ID"
+                        "ref": "Gregor/00/Rosepanner Gregor"
                     }
                 ],
                 "map_locations": [
@@ -422,11 +422,11 @@
                 ]
             },
             {
-                "name": "/ID",
+                "name": "KuroKumo Clan Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/00/ID"
+                        "ref": "Gregor/00/KuroKumo Clan Gregor"
                     }
                 ],
                 "map_locations": [
