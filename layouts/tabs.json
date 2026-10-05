@@ -5,108 +5,312 @@
             {
                 "title": "Yi Sang",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yi Sang"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Yi Sang"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Yi Sang EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Faust",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Faust"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Faust"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Faust EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Don Quixote",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Don Quixote"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Don Quixote"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Don Quixote EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Ryoshu",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Ryoshu"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ryoshu"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ryoshu EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Meursault",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Meursault"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Meursault"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Meursault EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Hong Lu",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Hong Lu"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hong Lu"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hong Lu EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Heathcliff",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Heathcliff"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Heathcliff"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Heathcliff EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Ishmael",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Ishmael"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ishmael"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ishmael EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Rodion",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Rodion"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Rodion"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Rodion EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Sinclair",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sinclair"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sinclair"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sinclair EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Outis",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Outis"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Outis"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Outis EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Gregor",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Gregor"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "IDs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gregor"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EGOs",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gregor EGO"
+                                ]
+                            }
+                        }
                     ]
                 }
             }

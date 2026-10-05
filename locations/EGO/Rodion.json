@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Rodion EGO",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "rodion"
+        ],
+        "children": [
+            {
+                "name": "ZAYIN",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "TETH",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "HE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "WAW",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "EGO name",
+                        "access_rules": [
+                            "keyword1, keyword2"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - ZAYIN",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/ZAYIN/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 1,
+                        "y": 1,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - ZAYIN",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/ZAYIN/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 1,
+                        "y": 2,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - TETH",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/TETH/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 2,
+                        "y": 1,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - TETH",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/TETH/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 2,
+                        "y": 2,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - TETH",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/TETH/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 2,
+                        "y": 3,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - HE",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/HE/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 3,
+                        "y": 1,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - HE",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/HE/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 3,
+                        "y": 2,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - HE",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/HE/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 3,
+                        "y": 3,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - WAW",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/WAW/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 4,
+                        "y": 1,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "EGO name - WAW",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Rodion/WAW/EGO name"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rodion EGO",
+                        "x": 4,
+                        "y": 2,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]
