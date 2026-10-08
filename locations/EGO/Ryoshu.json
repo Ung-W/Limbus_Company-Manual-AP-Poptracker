@@ -129,14 +129,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/ZAYIN/EGO name"
+                        "ref": "Ryoshu EGO/ZAYIN/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 1,
-                        "y": 1,
+                        "y": 105,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -147,14 +147,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/ZAYIN/EGO name"
+                        "ref": "Ryoshu EGO/ZAYIN/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 1,
-                        "y": 2,
+                        "y": 105,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -165,14 +165,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/TETH/EGO name"
+                        "ref": "Ryoshu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 2,
-                        "y": 1,
+                        "y": 569,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -183,14 +183,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/TETH/EGO name"
+                        "ref": "Ryoshu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 2,
-                        "y": 2,
+                        "y": 569,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -201,14 +201,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 3,
-                        "y": 1,
+                        "y": 1033,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -219,14 +219,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 3,
-                        "y": 2,
+                        "y": 1033,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -237,14 +237,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 3,
-                        "y": 3,
+                        "y": 1033,
+                        "x": 1601,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -255,14 +255,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/WAW/EGO name"
+                        "ref": "Ryoshu EGO/WAW/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 4,
-                        "y": 1,
+                        "y": 1497,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -273,14 +273,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu/WAW/EGO name"
+                        "ref": "Ryoshu EGO/WAW/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ryoshu EGO",
-                        "x": 4,
-                        "y": 2,
+                        "y": 1497,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }

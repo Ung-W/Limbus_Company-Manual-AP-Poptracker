@@ -145,14 +145,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/ZAYIN/EGO name"
+                        "ref": "Faust EGO/ZAYIN/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 1,
-                        "y": 1,
+                        "y": 105,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -163,14 +163,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 2,
-                        "y": 1,
+                        "y": 569,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -181,14 +181,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 2,
-                        "y": 2,
+                        "y": 569,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -199,14 +199,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 2,
-                        "y": 3,
+                        "y": 569,
+                        "x": 1601,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -217,14 +217,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/HE/EGO name"
+                        "ref": "Faust EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 3,
-                        "y": 1,
+                        "y": 1033,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -235,14 +235,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/HE/EGO name"
+                        "ref": "Faust EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 3,
-                        "y": 2,
+                        "y": 1033,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -253,14 +253,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/HE/EGO name"
+                        "ref": "Faust EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 3,
-                        "y": 3,
+                        "y": 1033,
+                        "x": 1601,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -271,14 +271,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/HE/EGO name"
+                        "ref": "Faust EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 3,
-                        "y": 4,
+                        "y": 1033,
+                        "x": 2050,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -289,14 +289,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/HE/EGO name"
+                        "ref": "Faust EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 3,
-                        "y": 5,
+                        "y": 1033,
+                        "x": 2499,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -307,14 +307,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/WAW/EGO name"
+                        "ref": "Faust EGO/WAW/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 4,
-                        "y": 1,
+                        "y": 1497,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -325,14 +325,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust/WAW/EGO name"
+                        "ref": "Faust EGO/WAW/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Faust EGO",
-                        "x": 4,
-                        "y": 2,
+                        "y": 1497,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }

@@ -137,14 +137,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/ZAYIN/EGO name"
+                        "ref": "Hong Lu EGO/ZAYIN/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 1,
-                        "y": 1,
+                        "y": 105,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -155,14 +155,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/ZAYIN/EGO name"
+                        "ref": "Hong Lu EGO/ZAYIN/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 1,
-                        "y": 2,
+                        "y": 105,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -173,14 +173,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 2,
-                        "y": 1,
+                        "y": 569,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -191,14 +191,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 2,
-                        "y": 2,
+                        "y": 569,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -209,14 +209,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 2,
-                        "y": 3,
+                        "y": 569,
+                        "x": 1601,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -227,14 +227,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 2,
-                        "y": 4,
+                        "y": 569,
+                        "x": 2050,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -245,14 +245,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 3,
-                        "y": 1,
+                        "y": 1033,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -263,14 +263,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 3,
-                        "y": 2,
+                        "y": 1033,
+                        "x": 1152,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -281,14 +281,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 3,
-                        "y": 3,
+                        "y": 1033,
+                        "x": 1601,
                         "size": 50,
                         "shape": "rect"
                     }
@@ -299,14 +299,14 @@
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu/WAW/EGO name"
+                        "ref": "Hong Lu EGO/WAW/EGO name"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hong Lu EGO",
-                        "x": 4,
-                        "y": 1,
+                        "y": 1497,
+                        "x": 703,
                         "size": 50,
                         "shape": "rect"
                     }
