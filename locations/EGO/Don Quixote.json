@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "La Sangre De Sancho",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "I'll go for Siccors. How 'Bout you?",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Wishing Cairn",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Electric Screaming",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Lifetime Stew",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,25 +80,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Fluid Sac",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Red Sheet",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "telepole",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,17 +115,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Yearning Macala",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "In The Name Of Love and Hate",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, rupture, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
