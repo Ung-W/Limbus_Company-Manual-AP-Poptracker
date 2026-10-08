@@ -45,17 +45,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "Ya Sunyata Tad Rupam",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Sunshower",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -72,33 +72,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Ebony Stem",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Holiday",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Dimension Shredder",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Magic Bullet",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,9 +115,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Binds",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
