@@ -18,9 +18,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Representation Emitter",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -37,25 +37,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Hex Nail",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Lasso",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "9:2",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -72,41 +72,41 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Fluid Sac",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Command Meltdown",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Thorncalgia",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Telepole",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Ardor Blossom Star",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -123,17 +123,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Hollow",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, poise, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Everlasting",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
