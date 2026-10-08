@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Forest for the Flames",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Soda",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,17 +45,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Blind Obsession",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Red Eyes",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -72,25 +72,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "4TH Match Flame",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Red Eyes (Open)",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Thoracalgia",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -107,17 +107,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Great Trichiliocosm",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, bleed, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Contempt Awe",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
