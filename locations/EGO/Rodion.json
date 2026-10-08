@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "What is Cast",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Into the Sunset",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Mirror Touch",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Rime Shank",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Effervesent Corrosion",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,25 +80,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Persuance",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Hex Nail",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "4TH Match Flame",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,17 +115,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Indicant's Trial",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Sanguine Desire",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
