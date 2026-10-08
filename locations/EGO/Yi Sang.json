@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Crows Eye View",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Bygone days",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,17 +45,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "4th Match Flame",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Wishing Cairn",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -72,25 +72,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Solemn Lament",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Fell Bullet",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Dimension Shredder",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -107,17 +107,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Sunshower",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Great Trichiliocosm",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, sinking, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
