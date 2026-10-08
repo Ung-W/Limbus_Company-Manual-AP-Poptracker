@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Branch of Knowledge",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Cavernous Wailing",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Hex Nail",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Lifetime Stew",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Impending Day",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,25 +80,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Harmony",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "9:2",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Lantern",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,9 +115,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Tears of the Tarnished Blood",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
