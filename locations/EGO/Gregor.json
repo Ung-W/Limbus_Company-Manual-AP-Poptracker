@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Suddenly One Day",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Legerdermain",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Lantern",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Move-In Reg",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Bygone Days",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,25 +80,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Christmas Nightmare",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "AEDD",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Solemn Lament",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,17 +115,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Unbrilliant Glory",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Garden of Thorns",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
