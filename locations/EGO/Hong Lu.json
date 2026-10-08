@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Land of Illusion",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Repudiation",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,7 +45,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Cavernous Wailing",
                         "access_rules": [
                             "keyword1, keyword2"
                         ],
@@ -53,25 +53,25 @@
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Lasso",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Soda",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Roseate Desire",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -88,25 +88,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Dimension Shredder",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "To Remain Oneself",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Effervesent Corrosion",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -123,9 +123,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Tears of the Tarnished Blood",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
