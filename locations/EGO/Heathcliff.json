@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Bodysack",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Holiday",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Move-In Reg",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "AEDD",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Fell Bullet",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, bleed, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,25 +80,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Asymmetrical Inertia",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Ya Sunyata Tad Rupam",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Telepole",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -115,9 +115,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Binds",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
