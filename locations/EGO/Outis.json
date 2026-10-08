@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "To Pathos Mathos",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "I'll go for Siccors. How 'Bout You?",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,7 +45,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "",
                         "access_rules": [
                             "keyword1, keyword2"
                         ],
