@@ -18,17 +18,17 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Sangharpoon",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Hudred-Footed Death Maggot",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,25 +45,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Bygone Days",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Capote",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Roseate Desire",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -80,33 +80,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Tidal Elegy",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "sinking, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Wingbeat",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Ardor Blossom Star",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Christmas Nightmare",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -123,9 +123,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Blind Obsession",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, poise"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
