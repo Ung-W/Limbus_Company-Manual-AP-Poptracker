@@ -18,9 +18,9 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Chains of Others",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -37,25 +37,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Electric Screaming",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, rupture"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Regret",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "Tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Screwloose Wallop",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -72,25 +72,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Capote",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "burn, tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Pursuance",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Shadow-Vested Bladesinger",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "poise, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -107,25 +107,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "EGO name",
+                        "name": "Crushbound Past",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Hollow",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "charge, poise, sinking"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "EGO name",
+                        "name": "Yearning Macala",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
