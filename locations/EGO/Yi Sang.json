@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "zayin"
                 ],
                 "sections": [
                     {
@@ -41,7 +41,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "teth"
                 ],
                 "sections": [
                     {
@@ -68,7 +68,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "he"
                 ],
                 "sections": [
                     {
@@ -103,7 +103,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "waw"
                 ],
                 "sections": [
                     {
@@ -125,11 +125,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Crows Eye View - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/ZAYIN/EGO name"
+                        "ref": "Yi Sang EGO/ZAYIN/Crows Eye View"
                     }
                 ],
                 "map_locations": [
@@ -143,11 +143,11 @@
                 ]
             },
             {
-                "name": "EGO name- ZAYIN",
+                "name": "Bygone days- ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/ZAYIN/EGO name"
+                        "ref": "Yi Sang EGO/ZAYIN/Bygone days"
                     }
                 ],
                 "map_locations": [
@@ -161,11 +161,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "4th Match Flame - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/TETH/EGO name"
+                        "ref": "Yi Sang EGO/TETH/4th Match Flame"
                     }
                 ],
                 "map_locations": [
@@ -179,11 +179,11 @@
                 ]
             },
             {
-                "name": "EGO name- TETH",
+                "name": "Wishing Cairn- TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/TETH/EGO name"
+                        "ref": "Yi Sang EGO/TETH/Wishing Cairn"
                     }
                 ],
                 "map_locations": [
@@ -197,11 +197,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Dimension Shredder - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/HE/EGO name"
+                        "ref": "Yi Sang EGO/HE/Dimension Shredder"
                     }
                 ],
                 "map_locations": [
@@ -215,11 +215,11 @@
                 ]
             },
             {
-                "name": "EGO name- HE",
+                "name": "Fell Bullet- HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/HE/EGO name"
+                        "ref": "Yi Sang EGO/HE/Fell Bullet"
                     }
                 ],
                 "map_locations": [
@@ -233,11 +233,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Solemn Lament - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/HE/EGO name"
+                        "ref": "Yi Sang EGO/HE/Solemn Lament"
                     }
                 ],
                 "map_locations": [
@@ -251,11 +251,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Sunshower - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/WAW/EGO name"
+                        "ref": "Yi Sang EGO/WAW/Sunshower"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +269,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Great Trichiliocosm - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Yi Sang EGO/WAW/EGO name"
+                        "ref": "Yi Sang EGO/WAW/Great Trichiliocosm"
                     }
                 ],
                 "map_locations": [

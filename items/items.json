@@ -42,10 +42,10 @@
     {
         "name": "WAW EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/EgoClass/wawegoslotunlock.png",
+        "img": "images/items/EgoClass/waw_unlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "wawegoslotunlock"
+        "codes": "waw"
     },
     {
         "name": "Sinner Slot",
@@ -280,10 +280,10 @@
     {
         "name": "ZAYIN EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/EgoClass/zayinegoslotunlock.png",
+        "img": "images/items/EgoClass/zayin_unlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "zayinegoslotunlock"
+        "codes": "zayin"
     },
     {
         "name": "Chance Comet",
@@ -376,10 +376,10 @@
     {
         "name": "TETH EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/EgoClass/tethegoslotunlock.png",
+        "img": "images/items/EgoClass/teth_unlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "tethegoslotunlock"
+        "codes": "teth"
     },
     {
         "name": "floor14pack",
@@ -502,10 +502,10 @@
     {
         "name": "HE EGO Slot Unlock",
         "type": "toggle",
-        "img": "images/items/EgoClass/heegoslotunlock.png",
+        "img": "images/items/EgoClass/he_unlock.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "heegoslotunlock"
+        "codes": "he"
     },
     {
         "name": "Moon Star-Shop",
