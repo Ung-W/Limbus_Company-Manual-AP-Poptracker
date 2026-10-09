@@ -28,7 +28,11 @@
                     {
                         "name": "Holiday",
                         "access_rules": [
-                            " "
+                            "[burn], [bleed], [tremor], [rupture], sinking",
+                            "[burn], [bleed], [tremor], rupture, [sinking]",
+                            "[burn], [bleed], tremor, [rupture], [sinking]",
+                            "[burn], bleed, [tremor], [rupture], [sinking]",
+                            "burn, [bleed], [tremor], [rupture], [sinking]"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -125,11 +129,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Bodysack - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/ZAYIN/EGO name"
+                        "ref": "Heathcliff EGO/ZAYIN/Bodysack"
                     }
                 ],
                 "map_locations": [
@@ -143,11 +147,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Holiday - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/ZAYIN/EGO name"
+                        "ref": "Heathcliff EGO/ZAYIN/Holiday"
                     }
                 ],
                 "map_locations": [
@@ -161,11 +165,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "AEDD - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/TETH/EGO name"
+                        "ref": "Heathcliff EGO/TETH/AEDD"
                     }
                 ],
                 "map_locations": [
@@ -179,11 +183,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Fell Bullet - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/TETH/EGO name"
+                        "ref": "Heathcliff EGO/TETH/Fell Bullet"
                     }
                 ],
                 "map_locations": [
@@ -197,11 +201,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Move-In Reg - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/TETH/EGO name"
+                        "ref": "Heathcliff EGO/TETH/Move-In Reg"
                     }
                 ],
                 "map_locations": [
@@ -215,11 +219,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Telepole - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/HE/EGO name"
+                        "ref": "Heathcliff EGO/HE/Telepole"
                     }
                 ],
                 "map_locations": [
@@ -233,11 +237,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Ya Sunyata Tad Rupam - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/HE/EGO name"
+                        "ref": "Heathcliff EGO/HE/Ya Sunyata Tad Rupam"
                     }
                 ],
                 "map_locations": [
@@ -251,11 +255,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Asymmetrical Inertia - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/HE/EGO name"
+                        "ref": "Heathcliff EGO/HE/Asymmetrical Inertia"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +273,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Binds - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Heathcliff EGO/WAW/EGO name"
+                        "ref": "Heathcliff EGO/WAW/Binds"
                     }
                 ],
                 "map_locations": [

@@ -72,7 +72,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "4TH Match Flame",
+                        "name": "4th Match Flame",
                         "access_rules": [
                             "burn"
                         ],
@@ -125,11 +125,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Forest for the Flames - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/ZAYIN/EGO name"
+                        "ref": "Ryoshu EGO/ZAYIN/Forest for the Flames"
                     }
                 ],
                 "map_locations": [
@@ -143,11 +143,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Soda - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/ZAYIN/EGO name"
+                        "ref": "Ryoshu EGO/ZAYIN/Soda"
                     }
                 ],
                 "map_locations": [
@@ -161,11 +161,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Red Eyes - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/TETH/EGO name"
+                        "ref": "Ryoshu EGO/TETH/Red Eyes"
                     }
                 ],
                 "map_locations": [
@@ -179,11 +179,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Blind Obsession - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/TETH/EGO name"
+                        "ref": "Ryoshu EGO/TETH/Blind Obsession"
                     }
                 ],
                 "map_locations": [
@@ -197,11 +197,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "4th Match Flame - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/4th Match Flame"
                     }
                 ],
                 "map_locations": [
@@ -215,11 +215,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Red Eyes (Open) - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/Red Eyes (Open)"
                     }
                 ],
                 "map_locations": [
@@ -233,11 +233,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Thoracalgia - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/HE/EGO name"
+                        "ref": "Ryoshu EGO/HE/Thoracalgia"
                     }
                 ],
                 "map_locations": [
@@ -251,11 +251,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Contempt Awe - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/WAW/EGO name"
+                        "ref": "Ryoshu EGO/WAW/Contempt Awe"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +269,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Great Trichiliocosm - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Ryoshu EGO/WAW/EGO name"
+                        "ref": "Ryoshu EGO/WAW/Great Trichiliocosm"
                     }
                 ],
                 "map_locations": [

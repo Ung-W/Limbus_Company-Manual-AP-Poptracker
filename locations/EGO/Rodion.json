@@ -96,7 +96,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "4TH Match Flame",
+                        "name": "4th Match Flame",
                         "access_rules": [
                             "burn"
                         ],
@@ -133,11 +133,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "What is Cast - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/ZAYIN/EGO name"
+                        "ref": "Rodion EGO/ZAYIN/What is Cast"
                     }
                 ],
                 "map_locations": [
@@ -151,11 +151,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Into the Sunset - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/ZAYIN/EGO name"
+                        "ref": "Rodion EGO/ZAYIN/Into the Sunset"
                     }
                 ],
                 "map_locations": [
@@ -169,11 +169,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Rime Shank - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/TETH/EGO name"
+                        "ref": "Rodion EGO/TETH/Rime Shank"
                     }
                 ],
                 "map_locations": [
@@ -187,11 +187,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Effervesent Corrosion - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/TETH/EGO name"
+                        "ref": "Rodion EGO/TETH/Effervesent Corrosion"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +205,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Mirror Touch - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/TETH/EGO name"
+                        "ref": "Rodion EGO/TETH/Mirror Touch"
                     }
                 ],
                 "map_locations": [
@@ -223,11 +223,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "4th Match Flame - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/HE/EGO name"
+                        "ref": "Rodion EGO/HE/4th Match Flame"
                     }
                 ],
                 "map_locations": [
@@ -241,11 +241,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Persuance - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/HE/EGO name"
+                        "ref": "Rodion EGO/HE/Persuance"
                     }
                 ],
                 "map_locations": [
@@ -259,11 +259,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Hex Nail - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/HE/EGO name"
+                        "ref": "Rodion EGO/HE/Hex Nail"
                     }
                 ],
                 "map_locations": [
@@ -277,11 +277,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Sanguine Desire - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/WAW/EGO name"
+                        "ref": "Rodion EGO/WAW/Sanguine Desire"
                     }
                 ],
                 "map_locations": [
@@ -295,11 +295,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Indicant's Trial - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Rodion EGO/WAW/EGO name"
+                        "ref": "Rodion EGO/WAW/Indicant's Trial"
                     }
                 ],
                 "map_locations": [

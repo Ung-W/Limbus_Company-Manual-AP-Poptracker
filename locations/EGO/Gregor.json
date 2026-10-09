@@ -20,7 +20,11 @@
                     {
                         "name": "Suddenly One Day",
                         "access_rules": [
-                            " "
+                            "[burn], [bleed], [tremor], [rupture], sinking",
+                            "[burn], [bleed], [tremor], rupture, [sinking]",
+                            "[burn], [bleed], tremor, [rupture], [sinking]",
+                            "[burn], bleed, [tremor], [rupture], [sinking]",
+                            "burn, [bleed], [tremor], [rupture], [sinking]"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -133,11 +137,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Suddenly One Day - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/ZAYIN/EGO name"
+                        "ref": "Gregor EGO/ZAYIN/Suddenly One Day"
                     }
                 ],
                 "map_locations": [
@@ -151,11 +155,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Legerdermain - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/ZAYIN/EGO name"
+                        "ref": "Gregor EGO/ZAYIN/Legerdermain"
                     }
                 ],
                 "map_locations": [
@@ -169,11 +173,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Lantern - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/TETH/EGO name"
+                        "ref": "Gregor EGO/TETH/Lantern"
                     }
                 ],
                 "map_locations": [
@@ -187,11 +191,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Bygone Days - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/TETH/EGO name"
+                        "ref": "Gregor EGO/TETH/Bygone Days"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +209,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Move-In Reg - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/TETH/EGO name"
+                        "ref": "Gregor EGO/TETH/Move-In Reg"
                     }
                 ],
                 "map_locations": [
@@ -223,11 +227,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "AEDD - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/HE/EGO name"
+                        "ref": "Gregor EGO/HE/AEDD"
                     }
                 ],
                 "map_locations": [
@@ -241,11 +245,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Solemn Lament - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/HE/EGO name"
+                        "ref": "Gregor EGO/HE/Solemn Lament"
                     }
                 ],
                 "map_locations": [
@@ -259,11 +263,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Christmas Nightmare - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/HE/EGO name"
+                        "ref": "Gregor EGO/HE/Christmas Nightmare"
                     }
                 ],
                 "map_locations": [
@@ -277,11 +281,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Garden of Thorns - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/WAW/EGO name"
+                        "ref": "Gregor EGO/WAW/Garden of Thorns"
                     }
                 ],
                 "map_locations": [
@@ -295,11 +299,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Unbrilliant Glory - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Gregor EGO/WAW/EGO name"
+                        "ref": "Gregor EGO/WAW/Unbrilliant Glory"
                     }
                 ],
                 "map_locations": [

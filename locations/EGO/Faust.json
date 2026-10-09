@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "faaust"
+            "faust"
         ],
         "children": [
             {
@@ -88,7 +88,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Thorncalgia",
+                        "name": "Thoracalgia",
                         "access_rules": [
                             "poise"
                         ],
@@ -141,11 +141,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Representation Emitter - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/ZAYIN/EGO name"
+                        "ref": "Faust EGO/ZAYIN/Representation Emitter"
                     }
                 ],
                 "map_locations": [
@@ -159,11 +159,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Hex Nail - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/Hex Nail"
                     }
                 ],
                 "map_locations": [
@@ -177,11 +177,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "9:2 - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/9:2"
                     }
                 ],
                 "map_locations": [
@@ -195,11 +195,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Lasso - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/TETH/EGO name"
+                        "ref": "Faust EGO/TETH/Lasso"
                     }
                 ],
                 "map_locations": [
@@ -213,11 +213,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Fluid Sac - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/HE/EGO name"
+                        "ref": "Faust EGO/HE/Fluid Sac"
                     }
                 ],
                 "map_locations": [
@@ -231,11 +231,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Telepole - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/HE/EGO name"
+                        "ref": "Faust EGO/HE/Telepole"
                     }
                 ],
                 "map_locations": [
@@ -249,11 +249,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Thoracalgia - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/HE/EGO name"
+                        "ref": "Faust EGO/HE/Thoracalgia"
                     }
                 ],
                 "map_locations": [
@@ -267,11 +267,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Command Meltdown - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/HE/EGO name"
+                        "ref": "Faust EGO/HE/Command Meltdown"
                     }
                 ],
                 "map_locations": [
@@ -285,11 +285,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Ardor Blossom Star - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/HE/EGO name"
+                        "ref": "Faust EGO/HE/Ardor Blossom Star"
                     }
                 ],
                 "map_locations": [
@@ -303,11 +303,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Everlasting - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/WAW/EGO name"
+                        "ref": "Faust EGO/WAW/Everlasting"
                     }
                 ],
                 "map_locations": [
@@ -321,11 +321,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Hollow - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Faust EGO/WAW/EGO name"
+                        "ref": "Faust EGO/WAW/Hollow"
                     }
                 ],
                 "map_locations": [

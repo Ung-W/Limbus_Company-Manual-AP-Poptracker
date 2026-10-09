@@ -26,7 +26,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "I'll go for Siccors. How 'Bout You?",
+                        "name": "I'll go for Scissors. How 'Bout You?",
                         "access_rules": [
                             "bleed"
                         ],
@@ -96,7 +96,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "telepole",
+                        "name": "Telepole",
                         "access_rules": [
                             "charge"
                         ],
@@ -133,11 +133,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "La Sangre De Sancho - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/ZAYIN/EGO name"
+                        "ref": "Don Quixote EGO/ZAYIN/La Sangre De Sancho"
                     }
                 ],
                 "map_locations": [
@@ -151,11 +151,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "I'll go for Scissors. How 'Bout You? - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/ZAYIN/EGO name"
+                        "ref": "Don Quixote EGO/ZAYIN/I'll go for Scissors. How 'Bout You?"
                     }
                 ],
                 "map_locations": [
@@ -169,11 +169,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Lifetime Stew - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/TETH/EGO name"
+                        "ref": "Don Quixote EGO/TETH/Lifetime Stew"
                     }
                 ],
                 "map_locations": [
@@ -187,11 +187,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Wishing Cairn - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/TETH/EGO name"
+                        "ref": "Don Quixote EGO/TETH/Wishing Cairn"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +205,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Electric Screaming - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/TETH/EGO name"
+                        "ref": "Don Quixote EGO/TETH/Electric Screaming"
                     }
                 ],
                 "map_locations": [
@@ -223,11 +223,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Fluid Sac - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/HE/EGO name"
+                        "ref": "Don Quixote EGO/HE/Fluid Sac"
                     }
                 ],
                 "map_locations": [
@@ -241,11 +241,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Telepole - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/HE/EGO name"
+                        "ref": "Don Quixote EGO/HE/Telepole"
                     }
                 ],
                 "map_locations": [
@@ -259,11 +259,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Red Sheet - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/HE/EGO name"
+                        "ref": "Don Quixote EGO/HE/Red Sheet"
                     }
                 ],
                 "map_locations": [
@@ -277,11 +277,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Yearning Macala - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/WAW/EGO name"
+                        "ref": "Don Quixote EGO/WAW/Yearning Macala"
                     }
                 ],
                 "map_locations": [
@@ -295,11 +295,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "In The Name Of Love and Hate - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Don Quixote EGO/WAW/EGO name"
+                        "ref": "Don Quixote EGO/WAW/In The Name Of Love and Hate"
                     }
                 ],
                 "map_locations": [

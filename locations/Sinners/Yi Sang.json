@@ -68,7 +68,7 @@
                     {
                         "name": "Solemn Lament Yi Sang with EGO",
                         "access_rules": [
-                            "sinking, tremor"
+                            "sinking, tremor, he"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

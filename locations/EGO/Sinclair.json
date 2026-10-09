@@ -125,11 +125,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Branch of Knowledge - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/ZAYIN/EGO name"
+                        "ref": "Sinclair EGO/ZAYIN/Branch of Knowledge"
                     }
                 ],
                 "map_locations": [
@@ -143,11 +143,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Cavernous Wailing - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/ZAYIN/EGO name"
+                        "ref": "Sinclair EGO/ZAYIN/Cavernous Wailing"
                     }
                 ],
                 "map_locations": [
@@ -161,11 +161,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Impending Day - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/TETH/EGO name"
+                        "ref": "Sinclair EGO/TETH/Impending Day"
                     }
                 ],
                 "map_locations": [
@@ -179,11 +179,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Lifetime Stew - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/TETH/EGO name"
+                        "ref": "Sinclair EGO/TETH/Lifetime Stew"
                     }
                 ],
                 "map_locations": [
@@ -197,11 +197,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Hex Nail - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/TETH/EGO name"
+                        "ref": "Sinclair EGO/TETH/Hex Nail"
                     }
                 ],
                 "map_locations": [
@@ -215,11 +215,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Lantern - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/HE/EGO name"
+                        "ref": "Sinclair EGO/HE/Lantern"
                     }
                 ],
                 "map_locations": [
@@ -233,11 +233,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "9:2 - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/HE/EGO name"
+                        "ref": "Sinclair EGO/HE/9:2"
                     }
                 ],
                 "map_locations": [
@@ -251,11 +251,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Harmony - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/HE/EGO name"
+                        "ref": "Sinclair EGO/HE/Harmony"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +269,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Tears of the Tarnished Blood - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Sinclair EGO/WAW/EGO name"
+                        "ref": "Sinclair EGO/WAW/Tears of the Tarnished Blood"
                     }
                 ],
                 "map_locations": [

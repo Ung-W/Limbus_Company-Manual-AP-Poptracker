@@ -26,7 +26,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "I'll go for Siccors. How 'Bout You?",
+                        "name": "I'll go for Scissors. How 'Bout You?",
                         "access_rules": [
                             "bleed"
                         ],
@@ -125,11 +125,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "To Pathos Mathos - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/ZAYIN/EGO name"
+                        "ref": "Outis EGO/ZAYIN/To Pathos Mathos"
                     }
                 ],
                 "map_locations": [
@@ -143,11 +143,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "I'll go for Scissors. How 'Bout You? - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/ZAYIN/EGO name"
+                        "ref": "Outis EGO/ZAYIN/I'll go for Scissors. How 'Bout You?"
                     }
                 ],
                 "map_locations": [
@@ -161,11 +161,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Ya Sunyata Tad Rupam - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/TETH/EGO name"
+                        "ref": "Outis EGO/TETH/Ya Sunyata Tad Rupam"
                     }
                 ],
                 "map_locations": [
@@ -179,11 +179,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Sunshower - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/TETH/EGO name"
+                        "ref": "Outis EGO/TETH/Sunshower"
                     }
                 ],
                 "map_locations": [
@@ -197,11 +197,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Ebony Stem - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/HE/EGO name"
+                        "ref": "Outis EGO/HE/Ebony Stem"
                     }
                 ],
                 "map_locations": [
@@ -215,11 +215,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Holiday - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/HE/EGO name"
+                        "ref": "Outis EGO/HE/Holiday"
                     }
                 ],
                 "map_locations": [
@@ -233,11 +233,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Dimension Shredder - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/HE/EGO name"
+                        "ref": "Outis EGO/HE/Dimension Shredder"
                     }
                 ],
                 "map_locations": [
@@ -251,11 +251,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Magic Bullet - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/HE/EGO name"
+                        "ref": "Outis EGO/HE/Magic Bullet"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +269,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Binds - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Outis EGO/WAW/EGO name"
+                        "ref": "Outis EGO/WAW/Binds"
                     }
                 ],
                 "map_locations": [

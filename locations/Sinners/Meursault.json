@@ -68,7 +68,7 @@
                     {
                         "name": "Blade Lineage Mentor Meursault with EGO",
                         "access_rules": [
-                            "poise, bleed"
+                            "poise, bleed, he"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

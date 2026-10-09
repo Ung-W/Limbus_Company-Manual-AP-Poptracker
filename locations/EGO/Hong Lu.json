@@ -47,7 +47,7 @@
                     {
                         "name": "Cavernous Wailing",
                         "access_rules": [
-                            "keyword1, keyword2"
+                            "tremor"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -133,11 +133,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Land of Illusion - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/ZAYIN/EGO name"
+                        "ref": "Hong Lu EGO/ZAYIN/Land of Illusion"
                     }
                 ],
                 "map_locations": [
@@ -151,11 +151,11 @@
                 ]
             },
             {
-                "name": "EGO name - ZAYIN",
+                "name": "Repudiation - ZAYIN",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/ZAYIN/EGO name"
+                        "ref": "Hong Lu EGO/ZAYIN/Repudiation"
                     }
                 ],
                 "map_locations": [
@@ -169,11 +169,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Roseate Desire - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/Roseate Desire"
                     }
                 ],
                 "map_locations": [
@@ -187,11 +187,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Soda - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/Soda"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +205,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Cavernous Wailing - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/Cavernous Wailing"
                     }
                 ],
                 "map_locations": [
@@ -223,11 +223,11 @@
                 ]
             },
             {
-                "name": "EGO name - TETH",
+                "name": "Lasso - TETH",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/TETH/EGO name"
+                        "ref": "Hong Lu EGO/TETH/Lasso"
                     }
                 ],
                 "map_locations": [
@@ -241,11 +241,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Dimension Shredder - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/Dimension Shredder"
                     }
                 ],
                 "map_locations": [
@@ -259,11 +259,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "Effervesent Corrosion - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/Effervesent Corrosion"
                     }
                 ],
                 "map_locations": [
@@ -277,11 +277,11 @@
                 ]
             },
             {
-                "name": "EGO name - HE",
+                "name": "To Remain Oneself - HE",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/HE/EGO name"
+                        "ref": "Hong Lu EGO/HE/To Remain Oneself"
                     }
                 ],
                 "map_locations": [
@@ -295,11 +295,11 @@
                 ]
             },
             {
-                "name": "EGO name - WAW",
+                "name": "Tears of the Tarnished Blood - WAW",
                 "sections": [
                     {
                         "name": "Access to EGO",
-                        "ref": "Hong Lu EGO/WAW/EGO name"
+                        "ref": "Hong Lu EGO/WAW/Tears of the Tarnished Blood"
                     }
                 ],
                 "map_locations": [
