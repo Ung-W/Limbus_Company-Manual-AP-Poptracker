@@ -1,4 +1,4 @@
-# Limbus Colpany (Manual) Poptracker for Archipelago
+# Limbus Company (Manual) Poptracker for Archipelago
 
 > Tracker created by Evoker (Me) using StripesOO7's [Pack Builder](https://github.com/StripesOO7/poptracker-pack-builder)
 
@@ -21,6 +21,10 @@ As [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases/l
 
 > Reminder : You have to receive every keyword needed for a given ID's kit to be able to use it, same goes with EGO
 
+### Sidebar
+
+Tracks Sinners, keywords, sinner specific keys, Mirror Dungeon Buffs and Mirror Dungeons Shop unlockable ability
+
 ### ID Tracker
 
 - Red means that you can't equip this ID
@@ -34,4 +38,4 @@ As [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases/l
 - Red means that you can't equip this EGO
 - Green means that you can equip this EGO
 - Yellow means that you can equip this EGO, technically shouldn't be able to but up to you
-  - Specifficaly for "Suddenly, One day" Gregor and "Holiday" Heathcliff : The EGOs inflicts random keywords so the dev/designer didn't know how to classify them, you can use them as soon as you want to (only need 1 of the keywords attached to it)
+  - Specificaly for "Suddenly, One day" Gregor and "Holiday" Heathcliff : The EGOs inflicts random keywords so the dev/designer didn't know how to classify them, you can use them as soon as you want to (only need 1 of the keywords attached to it)
