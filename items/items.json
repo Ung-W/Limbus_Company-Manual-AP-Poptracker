@@ -59,7 +59,7 @@
         "overlay_align": "right",
         "overlay_font_size": 14,
         "overlay_background": "#000000",
-        "codes": "sinnerslot+1"
+        "codes": "sinnerslot"
     },
     {
         "name": "floor07cleared",
@@ -142,12 +142,20 @@
         "codes": "floor02cleared"
     },
     {
-        "name": "Maost Key",
+        "name": "Mao Faust Key",
         "type": "toggle",
         "img": "images/items/Sinner/maostkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "maostkey"
+        "codes": "maofaustkey"
+    },
+    {
+        "name": "HoS Ryoshu Key",
+        "type": "toggle",
+        "img": "images/items/Sinner/hosryoshukey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hosryoshukey"
     },
     {
         "name": "floor04pack",
@@ -608,5 +616,13 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "update"
+    },
+    {
+        "name": "ALEPH EGO Slot Unlock",
+        "type": "toggle",
+        "img": "images/items/EgoClass/aleph_unlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aleph"
     }
 ]
