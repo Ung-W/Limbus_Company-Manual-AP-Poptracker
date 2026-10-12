@@ -22,7 +22,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Sin Keyword",
+                            "header": "Sin Keywords",
                             "dock": "top",
                             "content": {
                                 "type": "layout",

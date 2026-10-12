@@ -92,7 +92,7 @@
                     {
                         "name": "Crimson God of Le Rouge Sinclair",
                         "access_rules": [
-                            "charge, "
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -336,7 +336,7 @@
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/000/Crimson God of Le Rouge Sinclair"
+                        "ref": "Sinclair/000/Crimson of Le Rouge Sinclair"
                     }
                 ],
                 "map_locations": [
@@ -350,11 +350,11 @@
                 ]
             },
             {
-                "name": "Zwei Assoc. South 3 Sinclair",
+                "name": "Zwei Assoc. South 6 Sinclair",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Sinclair/00/Zwei Assoc. South 3 Sinclair"
+                        "ref": "Sinclair/00/Zwei Assoc. South 6 Sinclair"
                     }
                 ],
                 "map_locations": [
