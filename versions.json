@@ -1,11 +1,11 @@
 {
     "versions": [
         {
-            "package_version": "3.8.0",
-            "download_url": "",
-            "sha256": "",
+            "package_version": "2.8.1",
+            "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v2.8.1/Limbus_Company-Manual-AP-Poptracker-2.8.1.zip",
+            "sha256": "24b6b678222fc4d9c4822d6cc5fd3135b701335c1750de8598da199aae131116",
             "changelog": [
-                "New MD Release | S8"
+                "Refresh Bug Update | S8"
             ]
         },
         {
