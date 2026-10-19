@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "3.8.1",
+            "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.1/Limbus_Company-Manual-AP-Poptracker-3.8.1.zip",
+            "sha256": "93d482e786ce212ad4a1b770d0f59d0f0ee1085b8c4bc575d96bacc7c9262957",
+            "changelog": [
+                "Crimson God Sinclair | S8"
+            ]
+        },
+        {
             "package_version": "3.8.0",
             "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.0/Limbus_Company-Manual-AP-Poptracker-3.8.0.zip",
             "sha256": "86d6016299ae0506e15a4429245cee37b29c208424c6b1174463cc3892c7ed26",
