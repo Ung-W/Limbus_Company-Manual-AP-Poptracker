@@ -20,7 +20,7 @@
                     {
                         "name": "Mao Branch Faust",
                         "access_rules": [
-                            "rupture, maostkey"
+                            "rupture, maofaustkey"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
