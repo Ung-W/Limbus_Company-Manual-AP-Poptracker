@@ -90,7 +90,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Le Noir Ryoshu",
+                        "name": "Le Noir Footwear Ryoshu",
                         "access_rules": [
                             "charge, tremor"
                         ],
@@ -332,11 +332,11 @@
                 ]
             },
             {
-                "name": "Le Noir Ryoshu",
+                "name": "Le Noir Footwear Ryoshu",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Ryoshu/000/Le Noir Ryoshu"
+                        "ref": "Ryoshu/000/Le Noir Footwear Ryoshu"
                     }
                 ],
                 "map_locations": [

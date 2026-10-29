@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "3.8.3",
+            "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.3/Limbus_Company-Manual-AP-Poptracker-3.8.3.zip",
+            "sha256": "9e35eab1074e0e655ee2b77c5aaa1c632cf728140b8d08936c0e42c56d0a05c7",
+            "changelog": [
+                "Needleworks Heathcliff + Public Address Hong Lu | S8"
+            ]
+        },
+        {
             "package_version": "3.8.2",
             "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.2/Limbus_Company-Manual-AP-Poptracker-3.8.2.zip",
             "sha256": "6058c4bf5253d28d7b30aa910e0fe811ccb2ec126d0b7abedefc4c0b517e7890",

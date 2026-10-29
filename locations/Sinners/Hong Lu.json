@@ -96,6 +96,14 @@
                         ],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Le Noir Public Address Hong Lu",
+                        "access_rules": [
+                            "charge, tremor"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ]
             },
@@ -344,6 +352,24 @@
                         "map": "Hong Lu",
                         "x": 1044,
                         "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Le Noir Public Address Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/000/Le Noir Public Address Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 2043,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
