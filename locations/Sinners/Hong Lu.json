@@ -178,6 +178,114 @@
                 ]
             },
             {
+                "name": "LCB Sinner Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/Base/LCB Sinner Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "KuroKumo Clan Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/KuroKumo Clan Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 711,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Liu Assoc. Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/Liu Assoc. Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "FangHunt Office Fixer",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/FangHunt Office Fixer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hook Office Fixer Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/Hook Office Fixer Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "W Corp Hong Lu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Hong Lu/00/W Corp Hong Lu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "The Lord of Hongyuan Hong Lu",
                 "sections": [
                     {
@@ -370,114 +478,6 @@
                         "map": "Hong Lu",
                         "x": 2043,
                         "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "KuroKumo Clan Hong Lu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/00/KuroKumo Clan Hong Lu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 711,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Liu Assoc. Hong Lu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/00/Liu Assoc. Hong Lu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "FangHunt Office Fixer",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/00/FangHunt Office Fixer"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Hook Office Fixer Hong Lu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/00/Hook Office Fixer Hong Lu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "W Corp Hong Lu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/00/W Corp Hong Lu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Hong Lu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Hong Lu/Base/LCB Sinner Hong Lu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hong Lu",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

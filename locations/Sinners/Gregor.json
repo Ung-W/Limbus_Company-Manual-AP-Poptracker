@@ -170,6 +170,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/Base/LCB Sinner Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Liu Assoc. South 6 Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/00/Liu Assoc. South 6 Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sous Chef Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/00/Sous Chef Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Rosepanner Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/00/Rosepanner Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "KuroKumo Clan Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/00/KuroKumo Clan Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "G Corp Manager Corporal",
                 "sections": [
                     {
@@ -362,96 +452,6 @@
                         "map": "Gregor",
                         "x": 2043,
                         "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Liu Assoc. South 6 Gregor",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Gregor/00/Liu Assoc. South 6 Gregor"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gregor",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Sous Chef Gregor",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Gregor/00/Sous Chef Gregor"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gregor",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Rosepanner Gregor",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Gregor/00/Rosepanner Gregor"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gregor",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "KuroKumo Clan Gregor",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Gregor/00/KuroKumo Clan Gregor"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gregor",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Gregor",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Gregor/Base/LCB Sinner Gregor"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gregor",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

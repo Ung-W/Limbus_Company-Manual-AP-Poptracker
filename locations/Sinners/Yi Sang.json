@@ -178,6 +178,114 @@
                 ]
             },
             {
+                "name": "LCB Sinner Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/Base/LCB Sinner Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pequod Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Pequod Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Seven Assoc. Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Seven Assoc. Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 711,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dieci Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Dieci Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lantern Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Lantern Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Molar Office Yi Sang",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Yi Sang/00/Molar Office Yi Sang"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yi Sang",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Dimension Shredder Yi Sang",
                 "sections": [
                     {
@@ -355,114 +463,6 @@
                     {
                         "map": "Yi Sang",
                         "x": 1044,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Pequod Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/00/Pequod Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Seven Assoc. Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/00/Seven Assoc. Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 711,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Dieci Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/00/Dieci Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Lantern Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/00/Lantern Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Molar Office Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/00/Molar Office Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Yi Sang",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Yi Sang/Base/LCB Sinner Yi Sang"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yi Sang",
-                        "x": 378,
                         "y": 100,
                         "size": 50,
                         "shape": "rect"

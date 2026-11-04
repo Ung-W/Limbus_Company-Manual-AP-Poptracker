@@ -170,6 +170,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/Base/LCB Sinner Meursault"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dead Rabbits Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Dead Rabbits Meursault"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Middle Little Brother Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Middle Little Brother Meursault"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Rosespanner Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Rosespanner Meursault"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Liu Assoc. Meursault",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Meursault/00/Liu Assoc. Meursault"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Meursault",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Ring Meursault",
                 "sections": [
                     {
@@ -348,96 +438,6 @@
                         "map": "Meursault",
                         "x": 1044,
                         "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Dead Rabbits Meursault",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Meursault/00/Dead Rabbits Meursault"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Middle Little Brother Meursault",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Meursault/00/Middle Little Brother Meursault"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Rosespanner Meursault",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Meursault/00/Rosespanner Meursault"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Liu Assoc. Meursault",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Meursault/00/Liu Assoc. Meursault"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Meursault",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Meursault/Base/LCB Sinner Meursault"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Meursault",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

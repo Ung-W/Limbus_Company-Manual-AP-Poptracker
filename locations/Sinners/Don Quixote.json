@@ -162,6 +162,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/Base/LCB Sinner Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Blade Lineage Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Blade Lineage Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lantern Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Lantern Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "N Corp Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/N Corp Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shi Assoc. Don Quixote",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Don Quixote/00/Shi Assoc. Don Quixote"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Don Quixote",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Index Proxy Don Quixote",
                 "sections": [
                     {
@@ -335,96 +425,6 @@
                     {
                         "map": "Don Quixote",
                         "x": 2043,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Blade Lineage Don Quixote",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Don Quixote/00/Blade Lineage Don Quixote"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Don Quixote",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Lantern Don Quixote",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Don Quixote/00/Lantern Don Quixote"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Don Quixote",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "N Corp Don Quixote",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Don Quixote/00/N Corp Don Quixote"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Don Quixote",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Shi Assoc. Don Quixote",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Don Quixote/00/Shi Assoc. Don Quixote"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Don Quixote",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Don Quixote",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Don Quixote/Base/LCB Sinner Don Quixote"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Don Quixote",
-                        "x": 378,
                         "y": 100,
                         "size": 50,
                         "shape": "rect"

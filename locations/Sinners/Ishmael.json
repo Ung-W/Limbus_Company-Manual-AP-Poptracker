@@ -170,6 +170,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/Base/LCB Sinner Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shi Assoc. Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/00/Shi Assoc. Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCCB Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/00/LCCB Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sloshing Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/00/Sloshing Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Edgar Family Ishmael",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ishmael/00/Edgar Family Ishmael"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ishmael",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "R Corp Reindeer Ishmael",
                 "sections": [
                     {
@@ -362,96 +452,6 @@
                         "map": "Ishmael",
                         "x": 2043,
                         "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Shi Assoc. Ishmael",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ishmael/00/Shi Assoc. Ishmael"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ishmael",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCCB Ishmael",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ishmael/00/LCCB Ishmael"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ishmael",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Sloshing Ishmael",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ishmael/00/Sloshing Ishmael"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ishmael",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Edgar Family Ishmael",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ishmael/00/Edgar Family Ishmael"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ishmael",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Ishmael",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ishmael/Base/LCB Sinner Ishmael"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ishmael",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

@@ -170,6 +170,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/Base/LCB Sinner Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Seven Assoc. Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Seven Assoc. Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Yurodivy Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Yurodivy Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Liu Assoc. Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/Liu Assoc. Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "LCCB Assistant Manager Ryoshu",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Ryoshu/00/LCCB Assistant Manager Ryoshu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ryoshu",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Blade of The House of Spiders Ryoshu",
                 "sections": [
                     {
@@ -362,96 +452,6 @@
                         "map": "Ryoshu",
                         "x": 1377,
                         "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Seven Assoc. Ryoshu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ryoshu/00/Seven Assoc. Ryoshu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ryoshu",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Yurodivy Ryoshu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ryoshu/00/Yurodivy Ryoshu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ryoshu",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Liu Assoc. Ryoshu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ryoshu/00/Liu Assoc. Ryoshu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ryoshu",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCCB Assistant Manager Ryoshu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ryoshu/00/LCCB Assistant Manager Ryoshu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ryoshu",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Ryoshu",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Ryoshu/Base/LCB Sinner Ryoshu"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ryoshu",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }

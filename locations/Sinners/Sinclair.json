@@ -170,6 +170,114 @@
                 ]
             },
             {
+                "name": "LCB Sinner Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/Base/LCB Sinner Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Zwei Assoc. South 6 Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/00/Zwei Assoc. South 6 Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 711,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Los Mariachis Jefe Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/00/Los Mariachis Jefe Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Red Sheet Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/00/Red Sheet Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Molar Boatworks Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/00/Molar Boatworks Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Zwei Assoc. West 3 Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/00/Zwei Assoc. West 3 Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Blade Lineage Sinclair",
                 "sections": [
                     {
@@ -343,114 +451,6 @@
                     {
                         "map": "Sinclair",
                         "x": 2043,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Zwei Assoc. South 6 Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/00/Zwei Assoc. South 6 Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 711,
-                        "y": 100,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Los Mariachis Jefe Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/00/Los Mariachis Jefe Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Red Sheet Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/00/Red Sheet Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Molar Boatworks Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/00/Molar Boatworks Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Zwei Assoc. West 3 Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/00/Zwei Assoc. West 3 Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Sinclair",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Sinclair/Base/LCB Sinner Sinclair"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sinclair",
-                        "x": 378,
                         "y": 100,
                         "size": 50,
                         "shape": "rect"

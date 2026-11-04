@@ -170,6 +170,96 @@
                 ]
             },
             {
+                "name": "LCB Sinner Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/Base/LCB Sinner Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 378,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Butler Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Butler Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 711,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "W Corp Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/00/W Corp Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 378,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Zwei Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Zwei Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 378,
+                        "y": 1030,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lob Corp Agent Faust",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Faust/00/Lob Corp Agent Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Faust",
+                        "x": 711,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Mao Branch Faust",
                 "sections": [
                     {
@@ -362,96 +452,6 @@
                         "map": "Faust",
                         "x": 1377,
                         "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Butler Faust",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Faust/00/Butler Faust"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Faust",
-                        "x": 711,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "W Corp Faust",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Faust/00/W Corp Faust"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Faust",
-                        "x": 378,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Zwei Faust",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Faust/00/Zwei Faust"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Faust",
-                        "x": 378,
-                        "y": 1030,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Lob Corp Agent Faust",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Faust/00/Lob Corp Agent Faust"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Faust",
-                        "x": 711,
-                        "y": 565,
-                        "size": 50,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "LCB Sinner Faust",
-                "sections": [
-                    {
-                        "name": "Access to ID",
-                        "ref": "Faust/Base/LCB Sinner Faust"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Faust",
-                        "x": 378,
-                        "y": 100,
                         "size": 50,
                         "shape": "rect"
                     }
