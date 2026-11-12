@@ -1,5 +1,13 @@
 {
     "versions": [
+       {
+            "package_version": "3.8.4",
+            "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.4/Limbus_Company-Manual-AP-Poptracker-3.8.4.zip",
+            "sha256": "c8fab23f73bf692c86a6a813740ccd6b38df74eaa203acb022172ef3bbcd00fa",
+            "changelog": [
+                "You Branch Fix + Wedge IDs and KoD Hong Lu Ego | 10th Walpurgis"
+            ]
+        },
         {
             "package_version": "3.8.3",
             "download_url": "https://github.com/Ung-W/Limbus_Company-Manual-AP-Poptracker/releases/download/v3.8.3/Limbus_Company-Manual-AP-Poptracker-3.8.3.zip",
