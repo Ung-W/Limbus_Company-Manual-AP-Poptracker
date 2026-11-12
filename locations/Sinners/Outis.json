@@ -104,6 +104,14 @@
                         ],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    { 
+                        "name": "Wedge Office Rep Outis",
+                        "access_rules": [
+                            "tremor, poise"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ]
             },
