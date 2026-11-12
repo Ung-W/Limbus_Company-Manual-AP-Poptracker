@@ -98,14 +98,6 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Wedge Office Fixer Outis",
-                        "access_rules": [
-                            "poise, tremor"
-                        ],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    { 
                         "name": "Wedge Office Rep Outis",
                         "access_rules": [
                             "tremor, poise"
