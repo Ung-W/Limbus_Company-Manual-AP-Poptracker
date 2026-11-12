@@ -440,7 +440,7 @@
                 ]
             },
             {
-                "name": "Wedge Office Fixer Outis",
+                "name": "Wedge Office Rep Outis",
                 "sections": [
                     {
                         "name": "Access to ID",
@@ -458,5 +458,7 @@
                 ]
             }
         ]
+    }
+]
     }
 ]
