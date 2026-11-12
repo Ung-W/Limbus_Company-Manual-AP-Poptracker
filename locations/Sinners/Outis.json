@@ -96,10 +96,8 @@
                         ],
                         "visibility_rules": [],
                         "item_count": 1
-                    }
-                ]
-            },
-            {
+                    },
+                    {
                         "name": "Wedge Office Rep Outis",
                         "access_rules": [
                             "tremor, poise"
@@ -453,7 +451,7 @@
                     {
                         "map": "Outis",
                         "x": 2043,
-                        "y": 100,
+                        "y": 565,
                         "size": 50,
                         "shape": "rect"
                     }
