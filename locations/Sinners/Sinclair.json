@@ -100,6 +100,16 @@
                 ]
             },
             {
+                        "name": "Wedge Office Fixer Sinclair",
+                        "access_rules": [
+                            "poise, tremor"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
                 "name": "00",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -439,7 +449,7 @@
                     }
                 ]
             },
-            {
+                        {
                 "name": "Crimson God of Le Rouge Sinclair",
                 "sections": [
                     {
@@ -456,7 +466,22 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Wedge Office Fixer Sinclair",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Sinclair/000/Wedge Office Fixer Sinclair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinclair",
+                        "x": 2043,
+                        "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
             }
-        ]
-    }
-]
