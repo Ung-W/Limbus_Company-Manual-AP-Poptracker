@@ -110,6 +110,14 @@
                         ],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "The Sword Sharpened with Tears",
+                        "access_rules": [
+                            "poise, charge, sinking"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ]
             },
@@ -307,6 +315,24 @@
                         "map": "Hong Lu EGO",
                         "y": 1497,
                         "x": 703,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Sword Sharpened with Tears - HE",
+                "sections": [
+                    {
+                        "name": "Access to EGO",
+                        "ref": "Hong Lu EGO/HE/The Sword Sharpened with Tears"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hong Lu EGO",
+                        "y": 1033,
+                        "x": 2050,
                         "size": 50,
                         "shape": "rect"
                     }
