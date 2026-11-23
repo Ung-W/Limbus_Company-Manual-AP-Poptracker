@@ -98,9 +98,17 @@
                         "item_count": 1
                     },
                     {
-                        "name": "G Corp Manager Corporal",
+                        "name": "G Corp Manager Corporal Gregor",
                         "access_rules": [
                             "rupture"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Le Rouge Skein Nest Gregor",
+                        "access_rules": [
+                            "charge, bleed"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -452,6 +460,24 @@
                         "map": "Gregor",
                         "x": 2043,
                         "y": 565,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Le Rouge Skein Nest Gregor",
+                "sections": [
+                    {
+                        "name": "Access to ID",
+                        "ref": "Gregor/000/Le Rouge Skein Nest Gregor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gregor",
+                        "x": 2043,
+                        "y": 1030,
                         "size": 50,
                         "shape": "rect"
                     }
