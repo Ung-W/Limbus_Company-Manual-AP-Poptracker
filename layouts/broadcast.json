@@ -1,1 +1,64 @@
-{}
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Sinners",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "sinners_grid_horizontal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Sin Keywords",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "sin_grid_horizontal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Sinner Related Unlock",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "sinners_unlock_grid_horizontal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Mirror Dungeon Buffs",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "md_buff_grid_horizontal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Shop Abilities",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "shop_abilities_grid_horizontal"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

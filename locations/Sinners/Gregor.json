@@ -268,11 +268,11 @@
                 ]
             },
             {
-                "name": "G Corp Manager Corporal",
+                "name": "G Corp Manager Corporal Gregor",
                 "sections": [
                     {
                         "name": "Access to ID",
-                        "ref": "Gregor/000/G Corp Manager Corporal"
+                        "ref": "Gregor/000/G Corp Manager Corporal Gregor"
                     }
                 ],
                 "map_locations": [
